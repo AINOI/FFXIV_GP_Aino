@@ -42,4 +42,4 @@
 "41","TEXT_REGSEAPVPSEASONREWARDSECOND_00358_SYSTEM_000_101","所持品がいっぱいのため、報酬を受け取れません。<hex:02100103>所持品を整理して、再度、シーズン報酬支給官に、<hex:02100103>話しかけてください。"
 "42","TEXT_REGSEAPVPSEASONREWARDSECOND_00358_SYSTEM_000_102","ランキング報酬と交換できる「証」がありません。"
 "43","TEXT_REGSEAPVPSEASONREWARDSECOND_00358_SYSTEM_000_103","前シーズンは、プレシーズンだったため、<hex:02100103>報酬の配布は実施していません。"
-"44","TEXT_REGSEAPVPSEASONREWARDSECOND_00358_SYSTEM_000_104","トロフィークリスタルが上限のため、報酬を受け取れません。<hex:02100103>余裕を設けたのち、<hex:02100103>再度シーズン報酬支給官に話しかけてください。"
+"44","TEXT_REGSEAPVPSEASONREWARDSECOND_00358_SYSTEM_000_104","トロフィークリスタルが上限のため、報酬を受け取れません。<hex:02100103><hex:022003E80203>個以上の余裕を設けたのち、<hex:02100103>再度シーズン報酬支給官に話しかけてください。"
