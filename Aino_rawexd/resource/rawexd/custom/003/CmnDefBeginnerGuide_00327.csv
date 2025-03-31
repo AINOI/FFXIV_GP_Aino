@@ -8,11 +8,11 @@ int32,str,str
 3,TEXT_CMNDEFBEGINNERGUIDE_00327_COACH00327_000_002,為援助這些新人，<hex:02100103>我們專請老練冒險者來幫忙。<hex:02100103>這些前來幫忙的老練冒險者則被稱為「指導者」。
 4,TEXT_CMNDEFBEGINNERGUIDE_00327_COACH00327_000_003,如果在冒險中遇到了困難，就去向指導者傾訴吧！<hex:02100103>同為冒險者，他們一定會給予你必要的幫助的。<hex:02100103>如果有機會還可以和他們一起踏上冒險旅程。
 5,TEXT_CMNDEFBEGINNERGUIDE_00327_COACH00327_000_004,藉助指導者的力量，豐富自己的冒險經驗。<hex:02100103>如果你想更深入地了解，就再來找我！
-6,TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_005,「新人」狀態適用於剛剛開始在艾歐澤亞冒險的玩家。
-7,TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_006,在這艾歐澤亞中有許多冒險者，<hex:02100103>其中負責幫助新人冒險者的老練玩家被稱為「指導者」。
+6,TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_005,「新人」狀態適用於剛剛開始在艾奧傑亞冒險的玩家。
+7,TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_006,在這艾奧傑亞中有許多冒險者，<hex:02100103>其中負責幫助新人冒險者的老練玩家被稱為「指導者」。
 8,TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_007,通過與「指導者」組隊，<hex:02100103>「新人」可以獲得特殊的經驗值加成。
 9,TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_008,另外，還可以利用新人頻道這一特殊聊天頻道向指導者提問，<hex:02100103>或是與其他新人進行交流。
-10,TEXT_CMNDEFBEGINNERGUIDE_00327_COACH00327_000_015,你有好好享受冒險的樂趣嗎？<hex:02100103>在這艾歐澤亞，有許多人都需要冒險者的力量，<hex:02100103>請你務必去幫助他們。
+10,TEXT_CMNDEFBEGINNERGUIDE_00327_COACH00327_000_015,你有好好享受冒險的樂趣嗎？<hex:02100103>在這艾奧傑亞，有許多人都需要冒險者的力量，<hex:02100103>請你務必去幫助他們。
 11,TEXT_CMNDEFBEGINNERGUIDE_00327_COACH00327_000_016,如果你遇到處理不了的問題，或是不懂的問題，<hex:02100103>可以向指導者或者其他人諮詢，<hex:02100103>肯定能夠得到幫得上你的回答！
 12,TEXT_CMNDEFBEGINNERGUIDE_00327_COACH00327_000_020,看來你已經習慣了冒險生活了。<hex:02100103>不過單槍匹馬闖天下是享受不到冒險的全部樂趣的……<hex:02100103>和同伴齊心協力探索危險地帶也十分有意思哦。
 13,TEXT_CMNDEFBEGINNERGUIDE_00327_COACH00327_000_021,古代遺跡或洞窟，還有荒廢的墓園等……<hex:02100103>如果你要去這些危險的地方，或想去討伐強大的敵人，<hex:02100103>那麼我推薦你與同伴一同前往。
@@ -54,11 +54,11 @@ int32,str,str
 49,TEXT_CMNDEFBEGINNERGUIDE_00327_MENU_50,指導者資格更新
 50,TEXT_CMNDEFBEGINNERGUIDE_00327_MENU_01,返回
 51,TEXT_CMNDEFBEGINNERGUIDE_00327_COACH00327_000_100,我們公會稱剛開始冒險的冒險者為「新人」。<hex:02100103>就是說這些人身上都蘊藏著無限的可能性，是受期待的新星！
-52,TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_101,「新人」狀態適用於剛剛開始在艾歐澤亞冒險的玩家。
+52,TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_101,「新人」狀態適用於剛剛開始在艾奧傑亞冒險的玩家。
 53,TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_100_101,當遊戲時間超過300小時（地球時間），<hex:02100103>並完成任務「邁向明日的一步」後，<hex:02100103>線上狀態中將會移除「新人」狀態。
 54,TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_102,狀態為「新人」的玩家的名字旁，<hex:02100103>會顯示「<hex:0212024E03>」的標誌。
 55,TEXT_CMNDEFBEGINNERGUIDE_00327_COACH00327_000_110,為了幫助初出茅廬的冒險者，<hex:02100103>冒險者公會特邀經驗豐富的老練冒險者來指導新人。<hex:02100103>承擔指導任務的冒險者就被稱為指導者。
-56,TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_111,在這艾歐澤亞中有許多冒險者，<hex:02100103>其中負責幫助新人冒險者的老練玩家被稱為「指導者」。
+56,TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_111,在這艾奧傑亞中有許多冒險者，<hex:02100103>其中負責幫助新人冒險者的老練玩家被稱為「指導者」。
 57,TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_100_111,指導者分兩大類，<hex:02100103>分別是擅長戰鬥的「戰鬥指導者」<hex:02100103>與擅長製作與採集的「製作採集指導者」。
 58,TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_112,狀態為「指導者」的玩家的名字旁，會顯示錶示指導者的標誌。<hex:02100103>這個標誌會根據指導者擅長的領域不同而有所不同。
 59,TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_113,擅長戰鬥的指導者的標誌為「<hex:0212025003>」，<hex:02100103>擅長製作或採集的指導者的標誌為「<hex:0212025103>」，<hex:02100103>擅長玩家對戰的指導者的標誌為「<hex:0212025203>」。
@@ -74,7 +74,7 @@ int32,str,str
 69,TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_131,新人或回歸者與指導者組隊一同冒險，<hex:02100103>雙方都可以獲得經驗值的加成。<hex:02100103>經驗值加成在90級之前都有效。
 70,TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_132,在攻略副本任務、討伐殲滅野外敵人、完成危命任務時，<hex:02100103>都會產生經驗值加成。
 71,TEXT_CMNDEFBEGINNERGUIDE_00327_COACH00327_000_140,為新人冒險者做榜樣，指導他們進行冒險，這就是指導者。<hex:02100103>冒險者公會會委託經驗豐富的老練冒險者成為指導者。
-72,TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_141,在這艾歐澤亞中有許多冒險者，<hex:02100103>其中負責幫助新人冒險者的老練玩家被稱為「指導者」。
+72,TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_141,在這艾奧傑亞中有許多冒險者，<hex:02100103>其中負責幫助新人冒險者的老練玩家被稱為「指導者」。
 73,TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_100_141,指導者分兩大類，<hex:02100103>分別是擅長戰鬥的「戰鬥指導者」<hex:02100103>與擅長製作與採集的「製作採集指導者」。
 74,TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_142,成為其中任意一類指導者後，<hex:02100103>便可以加入專用的聊天頻道「新人頻道」，<hex:02100103>並享受相關經驗值加成。
 75,TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_100_142,此外，只有「戰鬥指導者」能夠使用「<hex:022814FF10>ContentRoulette<hex:0A0103>」。
@@ -118,7 +118,7 @@ int32,str,str
 113,TEXT_CMNDEFBEGINNERGUIDE_00327_COACH00327_000_200,
 114,TEXT_CMNDEFBEGINNERGUIDE_00327_COACH00327_000_205,……好了，已經幫你取消了。<hex:02100103>如果你以後有時間，歡迎再來作為指導者為我們提供幫助。
 115,TEXT_CMNDEFBEGINNERGUIDE_00327_COACH00327_000_210,你改變主意了啊！<hex:02100103>謝謝你……今後也請作為指導者幫助新人冒險者！
-116,TEXT_CMNDEFBEGINNERGUIDE_00327_COACH00327_000_300,有一些冒險者曾經一度中止了自己的冒險，<hex:02100103>現在又重新回歸了冒險旅途。<hex:02100103>希望你們能把艾歐澤亞當前的情況傳達給他們。
+116,TEXT_CMNDEFBEGINNERGUIDE_00327_COACH00327_000_300,有一些冒險者曾經一度中止了自己的冒險，<hex:02100103>現在又重新回歸了冒險旅途。<hex:02100103>希望你們能把艾奧傑亞當前的情況傳達給他們。
 117,TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_301,任意職業達到50級以上的玩家，<hex:02100103>在時隔45天（地球時間）之後再次登入遊戲時，<hex:02100103>可以將線上狀態設定為「回歸者」。
 118,TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_302,狀態為「回歸者」的玩家的名字旁，<hex:02100103>會顯示「<hex:0212026003>」的標誌。
 119,TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_303,回歸者和新人被賦予同樣的效果，<hex:02100103>可以通過指導者加入新人頻道，<hex:02100103>或享受經驗值加成。

@@ -7,7 +7,7 @@ int32,str,str
 2,TEXT_FESHLW024_01174_SEQ_02,從鬼祟的旅行藝人那裡領取了<hex:022811FF0A>EventItem<hex:F61E84B90103>。繼續裝備著<hex:02280BFF05>Item<hex:F217DC0103>，在烏爾達哈的<hex:02280CFF05>EObj<hex:F61E8F560103>設定<hex:022811FF0A>EventItem<hex:F61E84B80103>。
 3,TEXT_FESHLW024_01174_SEQ_03,設定好了<hex:02280CFF05>EObj<hex:F61E8F570103>。繼續裝備著<hex:02280BFF05>Item<hex:F217DC0103>，用<hex:022811FF0A>EventItem<hex:F61E84B90103>點燃燈火。
 4,TEXT_FESHLW024_01174_SEQ_04,點燃的<hex:02280CFF05>EObj<hex:F61E8F570103>中傳來了奇怪的聲音，說如果想知道旅行藝人馬戲團的真相，就去問城市的守護者。去問問恆輝作戰總部門口的阿姆布里克。
-5,TEXT_FESHLW024_01174_SEQ_05,據阿姆布里克說，恆輝隊並沒有參與守護天節的活動。接下來去問問劍術師公會的銀胄團衛兵拉拉古恩。
+5,TEXT_FESHLW024_01174_SEQ_05,據阿姆布里克說，恆輝隊並沒有參與守護天節的活動。接下來去問問劍術士公會的銀胄團衛兵拉拉古恩。
 6,TEXT_FESHLW024_01174_SEQ_06,拉拉古恩說並沒有跟恆輝隊聯絡過節日活動的事。他聽說招待馬戲團來此的是冒險者公會。去問問流沙屋的莫莫蒂。
 7,TEXT_FESHLW024_01174_SEQ_07,莫莫蒂提議冒險者嚇唬團長，以了解事情的真相。裝備上<hex:02280BFF05>Item<hex:F217DC0103>，使用<hex:022811FF0A>EventItem<hex:F61E84BA0103>嚇唬團長。
 8,TEXT_FESHLW024_01174_SEQ_08,團長的真身是小魔精。由於冒險者們表現活躍，魔物們無法在守護天節的晚上鬧騰了，於是它們想用節日活動來牽制住冒險者。雖然還不知道奇怪的聲音到底是什麼，但守護天節的活動就此落幕。剩餘的夜晚時光也和夥伴們一起快樂地度過吧。
@@ -30,7 +30,7 @@ int32,str,str
 25,TEXT_FESHLW024_01174_TODO_01,喬裝後在<hex:02280CFF05>EObj<hex:F61E8F560103>設定<hex:022811FF0A>EventItem<hex:F61E84B80103>
 26,TEXT_FESHLW024_01174_TODO_02,喬裝後對<hex:02280CFF05>EObj<hex:F61E8F570103>使用<hex:022811FF0A>EventItem<hex:F61E84B90103> 點燃燈火
 27,TEXT_FESHLW024_01174_TODO_03,和恆輝作戰總部門口的阿姆布里克對話
-28,TEXT_FESHLW024_01174_TODO_04,和劍術師公會的拉拉古恩對話
+28,TEXT_FESHLW024_01174_TODO_04,和劍術士公會的拉拉古恩對話
 29,TEXT_FESHLW024_01174_TODO_05,和流沙屋的莫莫蒂對話
 30,TEXT_FESHLW024_01174_TODO_06,喬裝後使用<hex:022811FF0A>EventItem<hex:F61E84BA0103>嚇唬團長
 31,TEXT_FESHLW024_01174_TODO_07,

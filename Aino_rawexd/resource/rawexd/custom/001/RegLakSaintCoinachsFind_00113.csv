@@ -3,7 +3,7 @@
 offset,0,4
 int32,str,str
 0,TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_000_000,嗯，這些水晶……嗯？<hex:02100103>你找我有什麼事嗎？
-1,TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_000_001,哎呀，今天過來有什麼事嗎？<hex:02100103>不管是以召喚師身份也好，還是以冒險者身份也好……<hex:02100103>我都歡迎你。
+1,TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_000_001,哎呀，今天過來有什麼事嗎？<hex:02100103>不管是以召喚士身份也好，還是以冒險者身份也好……<hex:02100103>我都歡迎你。
 2,TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_000_002,有你加入新的水晶塔調查計劃，<hex:02100103>我也覺得更有把握了。<hex:02100103>有什麼問題儘管問我就可以。
 3,TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_000_003,我在你帶回的水晶塔情報後加了批註，<hex:02100103>整理成了一份調查記錄。<hex:02100103>……你有什麼想要了解的嗎？
 4,TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_000_004,我把你們收集到的情報做了整理，<hex:02100103>追加到水晶塔調查記錄裡去了。<hex:02100103>……你有什麼想要了解的嗎？
@@ -36,7 +36,7 @@ int32,str,str
 31,TEXT_REGLAKSAINTCOINACHSFIND_00113_A1_110_009,皺巴巴的報告
 32,TEXT_REGLAKSAINTCOINACHSFIND_00113_A1_000_003,取消
 33,TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_000_010,我是負責調查這一帶的博物學家。<hex:02100103>是被學術城邦薩雷安的學術研究機構「聖寇伊納克財團」派來的。
-34,TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_000_011,以前我作為救世詩盟的一員，對艾歐澤亞遺失的文化進行研究。
+34,TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_000_011,以前我作為救世詩盟的一員，對艾奧傑亞遺失的文化進行研究。
 35,TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_000_012,現在，則通過接觸古代亞拉戈文明的遺跡，<hex:02100103>致力讓那些知識重新復甦。<hex:02100103>因為越是艱難的時代，就越需要優秀的知識。
 36,TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_000_020,這裡是古代亞拉戈帝國的遺跡，<hex:02100103>那是在第三星曆時期強盛的帝國，距現在有5000多年的歷史……<hex:02100103>目前，由我們聖寇伊納克財團來進行挖掘調查。
 37,TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_000_021,聖寇伊納克財團是薩雷安的組織。<hex:02100103>以「聖寇伊納克」，一位將畢生精力都投入到<hex:02100103>古代亞拉戈帝國挖掘調查中的偉人名字命名，日夜進行挖掘研究。
@@ -94,7 +94,7 @@ int32,str,str
 89,TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_000_103,(-諾亞報告-)原本，兩個世界是絕對不會產生交集的。<hex:02100103>但分隔世界的境界因一些原因變得薄弱時，<hex:02100103>連通兩界的裂痕就會產生。
 90,TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_000_104,(-諾亞報告-)不光是古代亞拉戈文明，<hex:02100103>歷史上有很多魔法師都人為打開了境界的裂痕「虛無界之門」，<hex:02100103>以此來利用異界妖異們的力量。
 91,TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_000_105,(-諾亞報告-)但妖異並非是人類忠實的僕從。<hex:02100103>它們渴求豐富的乙太資源，意圖侵入物質界。<hex:02100103>一旦它們失去控制，就會引發很大的災害。
-92,TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_000_106,(-諾亞報告-)因此在現今，利用妖異的行為被當做是一種禁忌。<hex:02100103>就連研究虛無界的咒術師公會，<hex:02100103>也要經過重重限制才能有限借用妖異的力量。
+92,TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_000_106,(-諾亞報告-)因此在現今，利用妖異的行為被當做是一種禁忌。<hex:02100103>就連研究虛無界的咒術士公會，<hex:02100103>也要經過重重限制才能有限借用妖異的力量。
 93,TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_000_110,好，那我就給你讀一下«暗黑之雲»的相關調查記錄吧。
 94,TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_000_111,(-諾亞報告-)由混沌支配的暗之世界……<hex:02100103>如果說那裡存在秩序，那恐怕力量就是那唯一的秩序。<hex:02100103>那裡完全是一個弱肉強食的世界，強大的妖異支配弱小的妖異。
 95,TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_000_112,(-諾亞報告-)因此，歷代的妖異學者們嘗試將諸多妖異按力量來進行系統分級。<hex:02100103>這就是所謂的「妖異十二階」。

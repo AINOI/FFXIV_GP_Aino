@@ -6,10 +6,10 @@ int32,str,str
 1,TEXT_JOBWHM001_01124_SEQ_01,接受了蓋羅爾特的委託。調查拉諾西亞外地武伽瑪羅武裝礦山的<hex:02280CFF05>EObj<hex:F61E8E400103>，獲取<hex:022811FF0A>EventItem<hex:F61E88610103>。
 2,TEXT_JOBWHM001_01124_SEQ_02,獲得了<hex:022811FF0A>EventItem<hex:F61E88610103>。將<hex:022811FF0A>EventItem<hex:F61E88610103>交給北部林區林場水車的蓋羅爾特。
 3,TEXT_JOBWHM001_01124_SEQ_03,將<hex:022811FF0A>EventItem<hex:F61E88610103>交給了蓋羅爾特。將鑲嵌了2個<hex:02280BFF05>Item<hex:F216590103>的<hex:02280BFF05>Item<hex:F208010103>交給北部林區林場水車的蓋羅爾特。
-4,TEXT_JOBWHM001_01124_SEQ_04,將<hex:02280BFF05>Item<hex:F208010103>交給了蓋羅爾特。調查庫爾札斯中央高地聖人淚的<hex:02280CFF05>EObj<hex:F61E94190103>，開放死化奇美拉討伐戰。完成死化奇美拉討伐戰，獲取<hex:022811FF0A>EventItem<hex:F61E886A0103>。<hex:02100103><hex:02100103>※可以通過任務搜尋器參加。<hex:02100103>※此任務需要在成為白魔法師的狀態下完成。
+4,TEXT_JOBWHM001_01124_SEQ_04,將<hex:02280BFF05>Item<hex:F208010103>交給了蓋羅爾特。調查庫爾札斯中央高地聖人淚的<hex:02280CFF05>EObj<hex:F61E94190103>，開放死化奇美拉討伐戰。完成死化奇美拉討伐戰，獲取<hex:022811FF0A>EventItem<hex:F61E886A0103>。<hex:02100103><hex:02100103>※可以通過任務搜尋器參加。<hex:02100103>※此任務需要在成為白魔道士的狀態下完成。
 5,TEXT_JOBWHM001_01124_SEQ_05,獲得了<hex:022811FF0A>EventItem<hex:F61E886A0103>。將<hex:022811FF0A>EventItem<hex:F61E886A0103>交給北部林區林場水車的蓋羅爾特。
 6,TEXT_JOBWHM001_01124_SEQ_06,將<hex:022811FF0A>EventItem<hex:F61E886A0103>交給了蓋羅爾特。和摩杜納喪靈鐘的羅薇娜談談。
-7,TEXT_JOBWHM001_01124_SEQ_07,和羅薇娜進行了交談。突破南部林區的邪教駐地無限城古堡，獲取<hex:022811FF0A>EventItem<hex:F61E88730103>。<hex:02100103><hex:02100103>※可以通過任務搜尋器參加。<hex:02100103>※此任務需要在成為白魔法師的狀態下完成。
+7,TEXT_JOBWHM001_01124_SEQ_07,和羅薇娜進行了交談。突破南部林區的邪教駐地無限城古堡，獲取<hex:022811FF0A>EventItem<hex:F61E88730103>。<hex:02100103><hex:02100103>※可以通過任務搜尋器參加。<hex:02100103>※此任務需要在成為白魔道士的狀態下完成。
 8,TEXT_JOBWHM001_01124_SEQ_08,獲得了<hex:022811FF0A>EventItem<hex:F61E88730103>。將<hex:022811FF0A>EventItem<hex:F61E88730103>交給摩杜納喪靈鐘的羅薇娜。
 9,TEXT_JOBWHM001_01124_SEQ_09,將<hex:022811FF0A>EventItem<hex:F61E88730103>交給了羅薇娜。將<hex:022811FF0A>EventItem<hex:F61E887C0103>交給北部林區林場水車的蓋羅爾特。
 10,TEXT_JOBWHM001_01124_SEQ_10,將<hex:022811FF0A>EventItem<hex:F61E887C0103>交給了蓋羅爾特。裝備上<hex:02280BFF05>Item<hex:F207FE0103>，前往拉諾西亞外地的武伽瑪羅武裝礦山，討伐<hex:02280FFF09>BNpcName<hex:F207290103>、<hex:02280FFF09>BNpcName<hex:F2072B0103>和<hex:02280FFF09>BNpcName<hex:F2072A0103>各8名。
@@ -17,9 +17,9 @@ int32,str,str
 12,TEXT_JOBWHM001_01124_SEQ_12,和蓋羅爾特進行了交談。調查東薩納蘭日影地修練所的<hex:02280CFF05>EObj<hex:F61E941A0103>，開放海德拉討伐戰。裝備上<hex:02280BFF05>Item<hex:F207FE0103>，完成海德拉討伐戰。<hex:02100103><hex:02100103>※可以通過任務搜尋器參加。
 13,TEXT_JOBWHM001_01124_SEQ_13,成功討伐了<hex:02280FFF09>BNpcName<hex:F208710103>。和北部林區林場水車的蓋羅爾特談談。
 14,TEXT_JOBWHM001_01124_SEQ_14,和蓋羅爾特進行了交談。將<hex:02280BFF05>Item<hex:F207FE0103>交給北部林區林場水車的蓋羅爾特。
-15,TEXT_JOBWHM001_01124_SEQ_15,將<hex:02280BFF05>Item<hex:F207FE0103>交給了蓋羅爾特。參加伊弗利特殲滅戰，從蠻神伊弗利特身上得到<hex:022811FF0A>EventItem<hex:F61E88850103>。<hex:02100103><hex:02100103>※可以通過任務搜尋器參加。<hex:02100103>※此任務需要在成為白魔法師的狀態下完成。
-16,TEXT_JOBWHM001_01124_SEQ_16,獲得了<hex:022811FF0A>EventItem<hex:F61E88850103>。參加迦樓羅殲滅戰，從蠻神迦樓羅身上得到<hex:022811FF0A>EventItem<hex:F61E888E0103>。<hex:02100103><hex:02100103>※可以通過任務搜尋器參加。<hex:02100103>※此任務需要在成為白魔法師的狀態下完成。
-17,TEXT_JOBWHM001_01124_SEQ_17,獲得了<hex:022811FF0A>EventItem<hex:F61E888E0103>。參加泰坦殲滅戰，從蠻神泰坦身上得到<hex:022811FF0A>EventItem<hex:F61E88970103>。<hex:02100103><hex:02100103>※可以通過任務搜尋器參加。<hex:02100103>※此任務需要在成為白魔法師的狀態下完成。
+15,TEXT_JOBWHM001_01124_SEQ_15,將<hex:02280BFF05>Item<hex:F207FE0103>交給了蓋羅爾特。參加伊弗利特殲滅戰，從蠻神伊弗利特身上得到<hex:022811FF0A>EventItem<hex:F61E88850103>。<hex:02100103><hex:02100103>※可以通過任務搜尋器參加。<hex:02100103>※此任務需要在成為白魔道士的狀態下完成。
+16,TEXT_JOBWHM001_01124_SEQ_16,獲得了<hex:022811FF0A>EventItem<hex:F61E88850103>。參加迦樓羅殲滅戰，從蠻神迦樓羅身上得到<hex:022811FF0A>EventItem<hex:F61E888E0103>。<hex:02100103><hex:02100103>※可以通過任務搜尋器參加。<hex:02100103>※此任務需要在成為白魔道士的狀態下完成。
+17,TEXT_JOBWHM001_01124_SEQ_17,獲得了<hex:022811FF0A>EventItem<hex:F61E888E0103>。參加泰坦殲滅戰，從蠻神泰坦身上得到<hex:022811FF0A>EventItem<hex:F61E88970103>。<hex:02100103><hex:02100103>※可以通過任務搜尋器參加。<hex:02100103>※此任務需要在成為白魔道士的狀態下完成。
 18,TEXT_JOBWHM001_01124_SEQ_18,獲得了<hex:022811FF0A>EventItem<hex:F61E88970103>。將<hex:022811FF0A>EventItem<hex:F61E88850103>、<hex:022811FF0A>EventItem<hex:F61E888E0103>和<hex:022811FF0A>EventItem<hex:F61E88970103>交給北部林區林場水車的蓋羅爾特。
 19,TEXT_JOBWHM001_01124_SEQ_19,將<hex:022811FF0A>EventItem<hex:F61E88850103>、<hex:022811FF0A>EventItem<hex:F61E888E0103>和<hex:022811FF0A>EventItem<hex:F61E88970103>交給了蓋羅爾特。將<hex:02280BFF05>Item<hex:F2187B0103>交給北部林區林場水車的蓋羅爾特。
 20,TEXT_JOBWHM001_01124_SEQ_20,將<hex:02280BFF05>Item<hex:F2187B0103>交給了蓋羅爾特。冒險者成功狩獵了蠻神，蓋羅爾特深受感動，展現出武器工匠的精湛技藝，完成了<hex:02280BFF05>Item<hex:F208040103>。
@@ -29,10 +29,10 @@ int32,str,str
 24,TEXT_JOBWHM001_01124_TODO_00,調查武伽瑪羅武裝礦山的<hex:02280CFF05>EObj<hex:F61E8E400103> 獲取<hex:022811FF0A>EventItem<hex:F61E88610103>
 25,TEXT_JOBWHM001_01124_TODO_01,將<hex:022811FF0A>EventItem<hex:F61E88610103>交給林場水車的蓋羅爾特
 26,TEXT_JOBWHM001_01124_TODO_02,將鑲有魔晶石的<hex:02280BFF05>Item<hex:F208010103>交給蓋羅爾特
-27,TEXT_JOBWHM001_01124_TODO_03,調查聖人淚的<hex:02280CFF05>EObj<hex:F61E94190103><hex:02100103>在成為白魔法師的狀態下完成死化奇美拉討伐戰
+27,TEXT_JOBWHM001_01124_TODO_03,調查聖人淚的<hex:02280CFF05>EObj<hex:F61E94190103><hex:02100103>在成為白魔道士的狀態下完成死化奇美拉討伐戰
 28,TEXT_JOBWHM001_01124_TODO_04,將<hex:022811FF0A>EventItem<hex:F61E886A0103>交給林場水車的蓋羅爾特
 29,TEXT_JOBWHM001_01124_TODO_05,和喪靈鐘的羅薇娜對話
-30,TEXT_JOBWHM001_01124_TODO_06,成為白魔法師的狀態下突破邪教駐地無限城古堡<hex:02100103>獲取<hex:022811FF0A>EventItem<hex:F61E88730103>
+30,TEXT_JOBWHM001_01124_TODO_06,成為白魔道士的狀態下突破邪教駐地無限城古堡<hex:02100103>獲取<hex:022811FF0A>EventItem<hex:F61E88730103>
 31,TEXT_JOBWHM001_01124_TODO_07,將<hex:022811FF0A>EventItem<hex:F61E88730103>交給喪靈鐘的羅薇娜
 32,TEXT_JOBWHM001_01124_TODO_08,將<hex:022811FF0A>EventItem<hex:F61E887C0103>交給林場水車的蓋羅爾特
 33,TEXT_JOBWHM001_01124_TODO_09,裝備上<hex:02280BFF05>Item<hex:F207FE0103> 討伐武伽瑪羅武裝礦山的<hex:02280FFF09>BNpcName<hex:F207290103>
@@ -42,9 +42,9 @@ int32,str,str
 37,TEXT_JOBWHM001_01124_TODO_13,調查日影地修練所的<hex:02280CFF05>EObj<hex:F61E941A0103><hex:02100103>裝備上<hex:02280BFF05>Item<hex:F207FE0103> 完成海德拉討伐戰
 38,TEXT_JOBWHM001_01124_TODO_14,和林場水車的蓋羅爾特對話
 39,TEXT_JOBWHM001_01124_TODO_15,將<hex:02280BFF05>Item<hex:F207FE0103>交給蓋羅爾特
-40,TEXT_JOBWHM001_01124_TODO_16,成為白魔法師的狀態下完成伊弗利特殲滅戰<hex:02100103>獲取<hex:022811FF0A>EventItem<hex:F61E88850103>
-41,TEXT_JOBWHM001_01124_TODO_17,成為白魔法師的狀態下完成迦樓羅殲滅戰<hex:02100103>獲取<hex:022811FF0A>EventItem<hex:F61E888E0103>
-42,TEXT_JOBWHM001_01124_TODO_18,成為白魔法師的狀態下完成泰坦殲滅戰<hex:02100103>獲取<hex:022811FF0A>EventItem<hex:F61E88970103>
+40,TEXT_JOBWHM001_01124_TODO_16,成為白魔道士的狀態下完成伊弗利特殲滅戰<hex:02100103>獲取<hex:022811FF0A>EventItem<hex:F61E88850103>
+41,TEXT_JOBWHM001_01124_TODO_17,成為白魔道士的狀態下完成迦樓羅殲滅戰<hex:02100103>獲取<hex:022811FF0A>EventItem<hex:F61E888E0103>
+42,TEXT_JOBWHM001_01124_TODO_18,成為白魔道士的狀態下完成泰坦殲滅戰<hex:02100103>獲取<hex:022811FF0A>EventItem<hex:F61E88970103>
 43,TEXT_JOBWHM001_01124_TODO_19,將指定物品交給林場水車的蓋羅爾特
 44,TEXT_JOBWHM001_01124_TODO_20,將<hex:02280BFF05>Item<hex:F2187B0103>交給蓋羅爾特
 45,TEXT_JOBWHM001_01124_TODO_21,
@@ -78,12 +78,12 @@ int32,str,str
 73,TEXT_JOBWHM001_01124_GEROLT_000_045,那種魔物的吐息中夾雜著高溫熱氣……<hex:02100103>比如在庫爾札斯中央高地肆虐的魔物——<hex:02280FFF09>BNpcName<hex:F208720103>，<hex:02100103>……你明白該怎麼做了吧？
 74,TEXT_JOBWHM001_01124_GEROLT_000_046,收拾了它，拿回<hex:022811FF0A>EventItem<hex:F61E886A0103>。<hex:02100103>這樣就能打磨武器的細節了。
 75,TEXT_JOBWHM001_01124_SYSTEM_000_047,可以在庫爾札斯中央高地聖人淚的<hex:02280CFF05>EObj<hex:F61E94190103><hex:02100103>開放死化奇美拉討伐戰。
-76,TEXT_JOBWHM001_01124_SYSTEM_000_048,在成為白魔法師的狀態下挑戰死化奇美拉討伐戰，<hex:02100103>打倒<hex:02280FFF09>BNpcName<hex:F208720103>！
+76,TEXT_JOBWHM001_01124_SYSTEM_000_048,在成為白魔道士的狀態下挑戰死化奇美拉討伐戰，<hex:02100103>打倒<hex:02280FFF09>BNpcName<hex:F208720103>！
 77,TEXT_JOBWHM001_01124_GEROLT_000_050,趕快做完水壺去喝個小酒……<hex:02100103>哎、哎喲！你嚇我一跳！
 78,TEXT_JOBWHM001_01124_GEROLT_000_051,難道說你忘了該幹什麼？<hex:02100103>那我就再告訴你一次。
 79,TEXT_JOBWHM001_01124_GEROLT_000_052,你要去收拾掉<hex:02280FFF09>BNpcName<hex:F208720103>，並把<hex:022811FF0A>EventItem<hex:F61E886A0103>帶回來。<hex:02100103>這樣我就能打磨細節了。
 80,TEXT_JOBWHM001_01124_SYSTEM_000_053,可以在庫爾札斯中央高地聖人淚的<hex:02280CFF05>EObj<hex:F61E94190103><hex:02100103>開放死化奇美拉討伐戰。
-81,TEXT_JOBWHM001_01124_SYSTEM_000_054,在成為白魔法師的狀態下挑戰死化奇美拉討伐戰，<hex:02100103>打倒<hex:02280FFF09>BNpcName<hex:F208720103>！
+81,TEXT_JOBWHM001_01124_SYSTEM_000_054,在成為白魔道士的狀態下挑戰死化奇美拉討伐戰，<hex:02100103>打倒<hex:02280FFF09>BNpcName<hex:F208720103>！
 82,TEXT_JOBWHM001_01124_GEROLT_000_060,……嘖，你怎麼還沒死啊……<hex:02100103><hex:02280FFF09>BNpcName<hex:F208720103>也夠不中用的……<hex:02100103>沒，我什麼都沒說，你別在意。
 83,TEXT_JOBWHM001_01124_GEROLT_000_061,總之，我收下這個<hex:022811FF0A>EventItem<hex:F61E886A0103>了，<hex:02100103>你等等，我接著去修復幻杖……
 84,TEXT_JOBWHM001_01124_GEROLT_000_062,呼……<hex:02100103>打磨完細節，<hex:02100103>終於修理得像那麼回事了。
@@ -103,7 +103,7 @@ int32,str,str
 98,TEXT_JOBWHM001_01124_GEROLT_000_091,這的確是記載著阿·拓瓦·坎特事跡的手抄本，<hex:02100103>不過解讀起來可費勁了。
 99,TEXT_JOBWHM001_01124_GEROLT_000_092,對了，在我休息……<hex:02100103>啊不對，在我解讀這手抄本的時候，<hex:02100103>你去試試這<hex:02280BFF05>Item<hex:F207FE0103>！
 100,TEXT_JOBWHM001_01124_GEROLT_000_093,外形已經修得有模有樣了，<hex:02100103>應該能用了。
-101,TEXT_JOBWHM001_01124_GEROLT_000_094,你以白魔法師的眼光去試試這武器還有什麼不足之處。
+101,TEXT_JOBWHM001_01124_GEROLT_000_094,你以白魔道士的眼光去試試這武器還有什麼不足之處。
 102,TEXT_JOBWHM001_01124_GEROLT_000_095,把從手抄本上得到的情報和你的親身感受結合在一起，<hex:02100103>尋找它到底缺點什麼。
 103,TEXT_JOBWHM001_01124_GEROLT_000_096,你就像阿·拓瓦·坎特那樣，裝備上<hex:02280BFF05>Item<hex:F207FE0103>，<hex:02100103>和強大的敵人戰鬥吧！
 104,TEXT_JOBWHM001_01124_GEROLT_000_097,你去拉諾西亞外地的武伽瑪羅武裝礦山，<hex:02100103>討伐<hex:02280FFF09>BNpcName<hex:F207290103>、<hex:02280FFF09>BNpcName<hex:F2072B0103>和<hex:02280FFF09>BNpcName<hex:F2072A0103>各8名！
@@ -122,9 +122,9 @@ int32,str,str
 117,TEXT_JOBWHM001_01124_GEROLT_000_132,你也別在這裡磨蹭了，<hex:02100103>快點去試一下<hex:02280BFF05>Item<hex:F207FE0103>，<hex:02100103>然後告訴我感想！
 118,TEXT_JOBWHM001_01124_EPICMOOGLE_000_135,這麼重要的武器，怎麼能弄丟了呢庫啵！<hex:02100103>莫古幫你撿回來了庫啵！<hex:02100103>千萬別再丟了庫啵！
 119,TEXT_JOBWHM001_01124_GEROLT_000_140,嘖，你怎麼又活著回來了……<hex:02100103>怎麼就沒被<hex:02280FFF09>BNpcName<hex:F208710103>吃了呢？<hex:02100103>算了，我們來說說手抄本的事吧。
-120,TEXT_JOBWHM001_01124_GEROLT_000_141,你拿回的那本手抄本，<hex:02100103>是阿達內斯聖櫃堂的咒術師寫的隨筆。
-121,TEXT_JOBWHM001_01124_GEROLT_000_142,上面記載了造訪烏爾達哈的阿·拓瓦·坎特，<hex:02100103>和那個咒術師筆者的談話內容。
-122,TEXT_JOBWHM001_01124_GEROLT_000_143,你放心。<hex:02100103>我在上面也發現了有關<hex:02280BFF05>Item<hex:F208040103>的情報。<hex:02100103>幻術師一般都喜歡使用天然木材製造的幻杖對吧？
+120,TEXT_JOBWHM001_01124_GEROLT_000_141,你拿回的那本手抄本，<hex:02100103>是阿達內斯聖櫃堂的咒術士寫的隨筆。
+121,TEXT_JOBWHM001_01124_GEROLT_000_142,上面記載了造訪烏爾達哈的阿·拓瓦·坎特，<hex:02100103>和那個咒術士筆者的談話內容。
+122,TEXT_JOBWHM001_01124_GEROLT_000_143,你放心。<hex:02100103>我在上面也發現了有關<hex:02280BFF05>Item<hex:F208040103>的情報。<hex:02100103>幻術士一般都喜歡使用天然木材製造的幻杖對吧？
 123,TEXT_JOBWHM001_01124_GEROLT_000_144,但是，阿·拓瓦·坎特角尊持有的卻是石材製的幻杖，<hex:02100103>熟知魔法的筆者看到後，感到很不可思議，便提出了疑問。
 124,TEXT_JOBWHM001_01124_GEROLT_000_145,對此，阿·拓瓦·坎特是這麼回答的。<hex:02100103>「似石非石。此乃經過歲月的洗禮，安如磐石的樹木」。
 125,TEXT_JOBWHM001_01124_GEROLT_000_146,也就是說，<hex:02100103><hex:02280BFF05>Item<hex:F208040103>是使用樹木變成的石頭——矽化木製造的。

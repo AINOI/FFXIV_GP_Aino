@@ -24,7 +24,7 @@ int32,str,str
 19,TEXT_COMDEFFREECOMPANY_00076_A2_07,關於自動轉讓部隊長
 20,TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_05,部隊是冒險者之間組建的、類似傭兵團的組織。
 21,TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_06,但與一般傭兵團不同的是，<hex:02100103>部隊必須要與黑渦團、雙蛇黨或恆輝隊<hex:02100103>其中之一的大國防聯軍簽訂專屬契約。
-22,TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_07,這項制度是以5年前的第七靈災為契機制定的。<hex:02100103>當時，參加艾歐澤亞城邦軍事同盟的大國防聯軍損傷慘重，<hex:02100103>出現了大批的戰死者和失蹤者。
+22,TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_07,這項制度是以5年前的第七靈災為契機制定的。<hex:02100103>當時，參加艾奧傑亞城邦軍事同盟的大國防聯軍損傷慘重，<hex:02100103>出現了大批的戰死者和失蹤者。
 23,TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_08,因此，為了能讓冒險者歸隊工作順利進行的同時，<hex:02100103>徹底對戰鬥力進行重組，所以制定了部隊制度。
 24,TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_100_08,對於大國防聯軍來說，以部隊為單位來委託任務，<hex:02100103>可以在發生特殊情況時，確保一定規模的戰鬥力，<hex:02100103>這也是這項制度最大的優點。
 25,TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_09,因為這項制度是由同盟的防禦條約審議會制定的，<hex:02100103>所以所屬不同大國防聯軍的同志們也可以一起組建部隊。

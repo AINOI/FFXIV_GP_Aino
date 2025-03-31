@@ -9,7 +9,7 @@ int32,str,str
 4,TEXT_SUBPST004_01485_SEQ_04,在<hex:02280CFF05>EObj<hex:F61E95340103>放上了<hex:022811FF0A>EventItem<hex:F61E89B10103>。用<hex:022811FF0A>EventItem<hex:F61E89B00103>點燃這捆雜草，將鼴鼠熏出來。
 5,TEXT_SUBPST004_01485_SEQ_05,將鼴鼠熏出來了。獲取<hex:022811FF0A>EventItem<hex:F61E89B20103>。
 6,TEXT_SUBPST004_01485_SEQ_06,獲得了<hex:022811FF0A>EventItem<hex:F61E89B20103>。前往鄧斯坦哨塔將<hex:022811FF0A>EventItem<hex:F61E89B20103>交給馬爾塞特。
-7,TEXT_SUBPST004_01485_SEQ_07,將<hex:022811FF0A>EventItem<hex:F61E89B20103>交給了馬爾塞特。多虧了冒險者的幫忙，終於解開了鼴鼠的秘密。今後，馬爾塞特還會解開更多艾歐澤亞生物的秘密。
+7,TEXT_SUBPST004_01485_SEQ_07,將<hex:022811FF0A>EventItem<hex:F61E89B20103>交給了馬爾塞特。多虧了冒險者的幫忙，終於解開了鼴鼠的秘密。今後，馬爾塞特還會解開更多艾奧傑亞生物的秘密。
 8,TEXT_SUBPST004_01485_SEQ_08,
 9,TEXT_SUBPST004_01485_SEQ_09,
 10,TEXT_SUBPST004_01485_SEQ_10,
@@ -62,7 +62,7 @@ int32,str,str
 57,TEXT_SUBPST004_01485_HOBRIAUT_000_014,不是老師您讓我訂的鼴鼠肉嗎？<hex:02100103>您怎麼忘了？
 58,TEXT_SUBPST004_01485_MARCETTE_000_015,我要你訂的是活鼴鼠！<hex:02100103>活著的鼴鼠！<hex:02100103>用生肉我怎麼證明自己的假說！
 59,TEXT_SUBPST004_01485_MARCETTE_000_016,……這樣的話，沒辦法了。<hex:02100103>輪到你出場了，第五十六助手！
-60,TEXT_SUBPST004_01485_MARCETTE_000_017,我正撰寫的«新艾歐澤亞博物志»……<hex:02100103>其新一章的題目就是鼴鼠！<hex:02100103>就是那種又矮又肥的鼴鼠，見過的吧！
+60,TEXT_SUBPST004_01485_MARCETTE_000_017,我正撰寫的«新艾奧傑亞博物志»……<hex:02100103>其新一章的題目就是鼴鼠！<hex:02100103>就是那種又矮又肥的鼴鼠，見過的吧！
 61,TEXT_SUBPST004_01485_MARCETTE_000_018,但是，為了證明我的新學說，<hex:02100103>必須要有<hex:022811FF0A>EventItem<hex:F61E89B20103>才行。<hex:02100103>鼴鼠的話棲息於中薩納蘭。
 62,TEXT_SUBPST004_01485_MARCETTE_000_019,作為糟蹋田地的有害野獸非常出名，<hex:02100103>你去王立娜娜莫菜園，問問那裡工作的園藝工，<hex:02100103>他們應該知道怎麼活捉鼴鼠。
 63,TEXT_SUBPST004_01485_MARCETTE_000_020,去吧，第三助手！<hex:02100103>快去中薩納蘭抓一隻<hex:022811FF0A>EventItem<hex:F61E89B20103>回來吧！

@@ -2,14 +2,14 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_JOBSCH450_01100_SEQ_00,斧術師公會的阿爾卡·佐爾卡有個好消息想告訴冒險者。
+0,TEXT_JOBSCH450_01100_SEQ_00,斧術士公會的阿爾卡·佐爾卡有個好消息想告訴冒險者。
 1,TEXT_JOBSCH450_01100_SEQ_01,接受了阿爾卡·佐爾卡的委託。前往摩杜納的迷霧濕地，調查<hex:02280CFF05>EObj<hex:F61E8DD10103>。
 2,TEXT_JOBSCH450_01100_SEQ_02,調查了<hex:02280CFF05>EObj<hex:F61E8DD10103>，並討伐了出現的魔物。繼續調查<hex:02280CFF05>EObj<hex:F61E8DD10103>，獲取<hex:022811FF0A>EventItem<hex:F61E87490103>。
 3,TEXT_JOBSCH450_01100_SEQ_03,獲得了<hex:022811FF0A>EventItem<hex:F61E87490103>。將<hex:022811FF0A>EventItem<hex:F61E87490103>和<hex:022811FF0A>EventItem<hex:F61E87480103>交給烏爾達哈裁衣匠公會的雷多倫特·羅斯，並獲取學者裝束。
 4,TEXT_JOBSCH450_01100_SEQ_04,將<hex:022811FF0A>EventItem<hex:F61E87490103>和<hex:022811FF0A>EventItem<hex:F61E87480103>交給了雷多倫特·羅斯，獲取了學者裝束。接下來將<hex:022811FF0A>EventItem<hex:F61E88440103>交給烏爾達哈雕金匠公會的賽倫蒂碧提，並獲取學者裝束。
 5,TEXT_JOBSCH450_01100_SEQ_05,將<hex:022811FF0A>EventItem<hex:F61E88440103>交給了賽倫蒂碧提，獲取了學者裝束。接下來將<hex:022811FF0A>EventItem<hex:F61E88440103>交給格里達尼亞製革匠公會的蓋娃，並獲取學者裝束。
 6,TEXT_JOBSCH450_01100_SEQ_06,將<hex:022811FF0A>EventItem<hex:F61E88440103>交給了蓋娃，獲取了學者裝束。接下來將<hex:022811FF0A>EventItem<hex:F61E88440103>交給格里達尼亞製革匠公會的貝利，並獲取學者裝束。
-7,TEXT_JOBSCH450_01100_SEQ_07,將<hex:022811FF0A>EventItem<hex:F61E88440103>交給了貝利，獲取了學者裝束。裝備上學者裝束後，向利姆薩·羅敏薩斧術師公會的阿爾卡·佐爾卡報告。
+7,TEXT_JOBSCH450_01100_SEQ_07,將<hex:022811FF0A>EventItem<hex:F61E88440103>交給了貝利，獲取了學者裝束。裝備上學者裝束後，向利姆薩·羅敏薩斧術士公會的阿爾卡·佐爾卡報告。
 8,TEXT_JOBSCH450_01100_SEQ_08,向阿爾卡·佐爾卡報告完畢。他看到冒險者收集的裝束之後，也為冒險者感到高興。
 9,TEXT_JOBSCH450_01100_SEQ_09,
 10,TEXT_JOBSCH450_01100_SEQ_10,

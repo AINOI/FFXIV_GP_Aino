@@ -53,8 +53,8 @@ int32,str,str
 48,TEXT_VOICEMAN_06005_000480_GRAHATIA,管你是末日還是什麼，我們的未來，絕不會任你踐踏！
 49,TEXT_VOICEMAN_06005_000490_ALISAIE,可不是嘛……<hex:02100103>我才剛對父親誇下海口，<hex:02100103>可不能當著他的面食言啊。
 50,TEXT_VOICEMAN_06005_000500_ALISAIE,連這點事都辦不好，還怎麼追趕<hex:02080DE905FF04>她<hex:FF04>他<hex:03>呢……
-51,TEXT_VOICEMAN_06005_000510_ALISAIE,<hex:02080DE905FF04>她<hex:FF04>他<hex:03>可是艾歐澤亞的利劍……是我的利劍……<hex:02100103>我怎麼能讓<hex:02080DE905FF04>她<hex:FF04>他<hex:03>一直孤身戰鬥下去！
-52,TEXT_VOICEMAN_06005_000520_ALISAIE,<hex:02080DE905FF04>她<hex:FF04>他<hex:03>可是艾歐澤亞的利劍……<hex:02100103>我怎麼能讓<hex:02080DE905FF04>她<hex:FF04>他<hex:03>一直孤身戰鬥下去！
+51,TEXT_VOICEMAN_06005_000510_ALISAIE,<hex:02080DE905FF04>她<hex:FF04>他<hex:03>可是艾奧傑亞的利劍……是我的利劍……<hex:02100103>我怎麼能讓<hex:02080DE905FF04>她<hex:FF04>他<hex:03>一直孤身戰鬥下去！
+52,TEXT_VOICEMAN_06005_000520_ALISAIE,<hex:02080DE905FF04>她<hex:FF04>他<hex:03>可是艾奧傑亞的利劍……<hex:02100103>我怎麼能讓<hex:02080DE905FF04>她<hex:FF04>他<hex:03>一直孤身戰鬥下去！
 53,TEXT_VOICEMAN_06005_000530_ALISAIE,啊……
 54,TEXT_VOICEMAN_06005_Q1_000_001_NONE_VOICE,要說什麼？
 55,TEXT_VOICEMAN_06005_A1_000_001_NONE_VOICE,久等了！
@@ -274,7 +274,7 @@ int32,str,str
 269,TEXT_VOICEMAN_06005_002600_KOKKOLDANKKOL,可就只有它的高傳導率才能滿足需要！<hex:02100103>我們的引擎中就用到了一些。
 270,TEXT_VOICEMAN_06005_002610_KOKKOLDANKKOL,第七靈災時衛月不是粉碎了嗎？<hex:02100103>我們撈起了掉進北洋的碎片，<hex:02100103>就是從那裡取出的特級精金。
 271,TEXT_VOICEMAN_06005_002620_KOKKOLDANKKOL,要是能再多來點……<hex:02100103>那這6%的傳導率就不是癡人說夢啦……
-272,TEXT_VOICEMAN_06005_002630_ALISAIE,艾歐澤亞各地還散落著不少衛月的碎片，<hex:02100103>你們為什麼不從那裡回收呢？
+272,TEXT_VOICEMAN_06005_002630_ALISAIE,艾奧傑亞各地還散落著不少衛月的碎片，<hex:02100103>你們為什麼不從那裡回收呢？
 273,TEXT_VOICEMAN_06005_002640_KOKKOLDANKKOL,我們當然有委託拾穗人去收集，<hex:02100103>但衛月也只有一小部分使用了特級精金。
 274,TEXT_VOICEMAN_06005_002650_KOKKOLDANKKOL,就是那些跟刺一樣的「諸神黃昏級拘束艦」，<hex:02100103>裡面的動力部分有用到。
 275,TEXT_VOICEMAN_06005_002660_KOKKOLDANKKOL,據調查，想要到達那裡，<hex:02100103>就必須先進入衛月碎片內部，突破重重的防禦機關。
@@ -288,7 +288,7 @@ int32,str,str
 283,TEXT_VOICEMAN_06005_002700_ALISAIE,你、你沒事吧？！<hex:02100103>不過那確實是一場激戰，我可以理解你的心情……
 284,TEXT_VOICEMAN_06005_002710_ALISAIE,難受的話就別想了，<hex:02100103>深呼吸……放鬆心態……<hex:02100103>回憶裡的總是會有一些誇大的……
 285,TEXT_VOICEMAN_06005_002720_ALISAIE,你有什麼推薦的人選嗎？
-286,TEXT_VOICEMAN_06005_002730_ALPHINAUD,帶有拘束艦的衛月碎片……<hex:02100103>光在艾歐澤亞都已經有很多記錄了。
+286,TEXT_VOICEMAN_06005_002730_ALPHINAUD,帶有拘束艦的衛月碎片……<hex:02100103>光在艾奧傑亞都已經有很多記錄了。
 287,TEXT_VOICEMAN_06005_002740_ALPHINAUD,如果想盡可能多地回收特級精金，<hex:02100103>那比起我們分頭去找，還不如……
 288,TEXT_VOICEMAN_06005_002750_ALPHINAUD,桑克瑞德，你在加雷馬帝都執行偵查任務的時候，<hex:02100103>曾經拿了個能聯繫各位救援隊代表的通訊珠吧？<hex:02100103>現在還能接通嗎？
 289,TEXT_VOICEMAN_06005_002760_THANCRED,當然能。<hex:02100103>拿去用吧。
@@ -326,7 +326,7 @@ int32,str,str
 321,TEXT_VOICEMAN_06005_003080_NANAMOULNAMO,羅羅力特，請你去回收亞拉戈魔器吧。<hex:02100103>無論是在市場上流通的，還是被人買走收集的……<hex:02100103>朕相信你心裡一定都有數。
 322,TEXT_VOICEMAN_06005_003090_NANAMOULNAMO,"朕不限定你使用什麼手段,<hex:02100103>你可以用自己的方式，以合理的價格進行回收，<hex:02100103>放手去做吧。"
 323,TEXT_VOICEMAN_06005_003100_NANAMOULNAMO,末日之劫正在威脅全世界……<hex:02100103>恐怕僅憑我烏爾達哈的力量無法與之抗衡。
-324,TEXT_VOICEMAN_06005_003110_NANAMOULNAMO,不過，我們艾歐澤亞的全體人民，<hex:02100103>都在第七靈災的傷痛中學到過珍貴的教訓。
+324,TEXT_VOICEMAN_06005_003110_NANAMOULNAMO,不過，我們艾奧傑亞的全體人民，<hex:02100103>都在第七靈災的傷痛中學到過珍貴的教訓。
 325,TEXT_VOICEMAN_06005_003120_NANAMOULNAMO,獨自無法通過的難關，<hex:02100103>與他人聯合起來就一定能夠突破。
 326,TEXT_VOICEMAN_06005_003130_NANAMOULNAMO,拂曉用行動證明過這一點，<hex:02100103>現在他們正需要幫助……
 327,TEXT_VOICEMAN_06005_003140_NANAMOULNAMO,我們烏爾達哈願意成為他們的同伴，<hex:02100103>一起攜手戰勝這場災難！
@@ -373,7 +373,7 @@ int32,str,str
 368,TEXT_VOICEMAN_06005_003550_URIANGER,唔……
 369,TEXT_VOICEMAN_06005_003560_URIANGER,對……對不起……<hex:02100103>我本來應該直接拜訪，親自告訴二位……
 370,TEXT_VOICEMAN_06005_003570_URIANGER,穆恩布瑞達的事……完全是因為我……
-371,TEXT_VOICEMAN_06005_003580_WILFSUNN,我女兒最大的遺憾，<hex:02100103>就是沒能跟隨路易索瓦大人一起去艾歐澤亞。<hex:02100103>所以當你們拂曉發來邀請時，她可是高興壞了。
+371,TEXT_VOICEMAN_06005_003580_WILFSUNN,我女兒最大的遺憾，<hex:02100103>就是沒能跟隨路易索瓦大人一起去艾奧傑亞。<hex:02100103>所以當你們拂曉發來邀請時，她可是高興壞了。
 372,TEXT_VOICEMAN_06005_003590_WILFSUNN,她知道自己在做什麼，那些都是她自己做出的選擇。
 373,TEXT_VOICEMAN_06005_003600_WILFSUNN,所以你也不要責備自己……<hex:02100103>當你想起她時，為她感到自豪就足夠了。
 374,TEXT_VOICEMAN_06005_003610_BLOEWYDA,我們氣的是自己沒在現場，<hex:02100103>沒法和你一起分擔悲傷。

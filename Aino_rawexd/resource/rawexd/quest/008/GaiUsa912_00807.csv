@@ -5,7 +5,7 @@ int32,str,str
 0,TEXT_GAIUSA912_00807_SEQ_00,鄧斯坦哨塔的馬爾塞特又想找冒險者來協助研究。
 1,TEXT_GAIUSA912_00807_SEQ_01,這次的工作是調查套索花的生態。使用<hex:022811FF0A>EventItem<hex:F61E883E0103>，打倒<hex:02280FFF09>BNpcName<hex:F208090103>，獲取<hex:022811FF0A>EventItem<hex:F61E87DE0103>。
 2,TEXT_GAIUSA912_00807_SEQ_02,獲得了<hex:022811FF0A>EventItem<hex:F61E87DE0103>。將<hex:022811FF0A>EventItem<hex:F61E87DE0103>交給鄧斯坦哨塔的馬爾塞特。
-3,TEXT_GAIUSA912_00807_SEQ_03,在冒險者的協助下，馬爾塞特的研究又有了進展。希望新艾歐澤亞博物志能夠順利完成。
+3,TEXT_GAIUSA912_00807_SEQ_03,在冒險者的協助下，馬爾塞特的研究又有了進展。希望新艾奧傑亞博物志能夠順利完成。
 4,TEXT_GAIUSA912_00807_SEQ_04,
 5,TEXT_GAIUSA912_00807_SEQ_05,
 6,TEXT_GAIUSA912_00807_SEQ_06,

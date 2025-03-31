@@ -3,12 +3,12 @@
 offset,0,4
 int32,str,str
 0,TEXT_JOBBLM451_01077_SEQ_00,紫紅瀑布的卡扎古·春，希望冒險者完成任務。
-1,TEXT_JOBBLM451_01077_SEQ_01,接受了卡扎古·春的委託。完成任務，收集黑魔法師裝束。前往南薩納蘭的贊拉克側翼陣，將<hex:022811FF0A>EventItem<hex:F61E87AC0103>銘刻於<hex:02280CFF05>EObj<hex:F61E8E020103>；前往北部林區的鳥人軍採伐所，將<hex:022811FF0A>EventItem<hex:F61E883B0103>銘刻於<hex:02280CFF05>EObj<hex:F61E8E030103>；前往拉諾西亞外地的武伽瑪羅武裝礦山，將<hex:022811FF0A>EventItem<hex:F61E883C0103>銘刻於<hex:02280CFF05>EObj<hex:F61E8E040103>。
+1,TEXT_JOBBLM451_01077_SEQ_01,接受了卡扎古·春的委託。完成任務，收集黑魔道士裝束。前往南薩納蘭的贊拉克側翼陣，將<hex:022811FF0A>EventItem<hex:F61E87AC0103>銘刻於<hex:02280CFF05>EObj<hex:F61E8E020103>；前往北部林區的鳥人軍採伐所，將<hex:022811FF0A>EventItem<hex:F61E883B0103>銘刻於<hex:02280CFF05>EObj<hex:F61E8E030103>；前往拉諾西亞外地的武伽瑪羅武裝礦山，將<hex:022811FF0A>EventItem<hex:F61E883C0103>銘刻於<hex:02280CFF05>EObj<hex:F61E8E040103>。
 2,TEXT_JOBBLM451_01077_SEQ_02,完成了指定的任務。前往東薩納蘭的紫紅瀑布，和卡扎古·春談談。
 3,TEXT_JOBBLM451_01077_SEQ_03,和卡扎古·春進行了交談。前往東薩納蘭的札爾神祠，調查<hex:02280CFF05>EObj<hex:F61E8E050103>，並討伐出現的妖異，獲取<hex:022811FF0A>EventItem<hex:F61E883D0103>。
-4,TEXT_JOBBLM451_01077_SEQ_04,獲得了<hex:022811FF0A>EventItem<hex:F61E883D0103>。在東薩納蘭的札爾神祠，將<hex:022811FF0A>EventItem<hex:F61E883D0103>銘刻於<hex:02280CFF05>EObj<hex:F61E8E050103>，並獲取黑魔法師裝束。
-5,TEXT_JOBBLM451_01077_SEQ_05,獲得了黑魔法師裝束。前往東薩納蘭的紫紅瀑布，向卡扎古·春報告。
-6,TEXT_JOBBLM451_01077_SEQ_06,向卡扎古·春報告完畢。卡扎古·春告訴冒險者，他們會繼續調查石板上有關至聖所的記述。<hex:02100103><hex:02100103>※黑魔法師的等級達到50級以上時，可以從卡扎古·春那裡領取下一個黑魔法師任務。
+4,TEXT_JOBBLM451_01077_SEQ_04,獲得了<hex:022811FF0A>EventItem<hex:F61E883D0103>。在東薩納蘭的札爾神祠，將<hex:022811FF0A>EventItem<hex:F61E883D0103>銘刻於<hex:02280CFF05>EObj<hex:F61E8E050103>，並獲取黑魔道士裝束。
+5,TEXT_JOBBLM451_01077_SEQ_05,獲得了黑魔道士裝束。前往東薩納蘭的紫紅瀑布，向卡扎古·春報告。
+6,TEXT_JOBBLM451_01077_SEQ_06,向卡扎古·春報告完畢。卡扎古·春告訴冒險者，他們會繼續調查石板上有關至聖所的記述。<hex:02100103><hex:02100103>※黑魔道士的等級達到50級以上時，可以從卡扎古·春那裡領取下一個黑魔道士任務。
 7,TEXT_JOBBLM451_01077_SEQ_07,
 8,TEXT_JOBBLM451_01077_SEQ_08,
 9,TEXT_JOBBLM451_01077_SEQ_09,
@@ -26,12 +26,12 @@ int32,str,str
 21,TEXT_JOBBLM451_01077_SEQ_21,
 22,TEXT_JOBBLM451_01077_SEQ_22,
 23,TEXT_JOBBLM451_01077_SEQ_23,
-24,TEXT_JOBBLM451_01077_TODO_00,將<hex:022811FF0A>EventItem<hex:F61E87AC0103>銘刻於贊拉克側翼陣的<hex:02280CFF05>EObj<hex:F61E8E020103> <hex:02100103>並獲取黑魔法師裝束
-25,TEXT_JOBBLM451_01077_TODO_01,將<hex:022811FF0A>EventItem<hex:F61E883B0103>銘刻於鳥人軍採伐所的<hex:02280CFF05>EObj<hex:F61E8E030103> <hex:02100103>並獲取黑魔法師裝束
-26,TEXT_JOBBLM451_01077_TODO_02,將<hex:022811FF0A>EventItem<hex:F61E883C0103>銘刻於武伽瑪羅武裝礦山的<hex:02280CFF05>EObj<hex:F61E8E040103> <hex:02100103>並獲取黑魔法師裝束
+24,TEXT_JOBBLM451_01077_TODO_00,將<hex:022811FF0A>EventItem<hex:F61E87AC0103>銘刻於贊拉克側翼陣的<hex:02280CFF05>EObj<hex:F61E8E020103> <hex:02100103>並獲取黑魔道士裝束
+25,TEXT_JOBBLM451_01077_TODO_01,將<hex:022811FF0A>EventItem<hex:F61E883B0103>銘刻於鳥人軍採伐所的<hex:02280CFF05>EObj<hex:F61E8E030103> <hex:02100103>並獲取黑魔道士裝束
+26,TEXT_JOBBLM451_01077_TODO_02,將<hex:022811FF0A>EventItem<hex:F61E883C0103>銘刻於武伽瑪羅武裝礦山的<hex:02280CFF05>EObj<hex:F61E8E040103> <hex:02100103>並獲取黑魔道士裝束
 27,TEXT_JOBBLM451_01077_TODO_03,和紫紅瀑布的卡扎古·春對話
 28,TEXT_JOBBLM451_01077_TODO_04,調查札爾神祠的<hex:02280CFF05>EObj<hex:F61E8E050103>並討伐妖異 獲取<hex:022811FF0A>EventItem<hex:F61E883D0103>
-29,TEXT_JOBBLM451_01077_TODO_05,將<hex:022811FF0A>EventItem<hex:F61E883D0103>銘刻於<hex:02280CFF05>EObj<hex:F61E8E050103> 並獲取黑魔法師裝束
+29,TEXT_JOBBLM451_01077_TODO_05,將<hex:022811FF0A>EventItem<hex:F61E883D0103>銘刻於<hex:02280CFF05>EObj<hex:F61E8E050103> 並獲取黑魔道士裝束
 30,TEXT_JOBBLM451_01077_TODO_06,向紫紅瀑布的卡扎古·春報告
 31,TEXT_JOBBLM451_01077_TODO_07,
 32,TEXT_JOBBLM451_01077_TODO_08,
@@ -50,7 +50,7 @@ int32,str,str
 45,TEXT_JOBBLM451_01077_TODO_21,
 46,TEXT_JOBBLM451_01077_TODO_22,
 47,TEXT_JOBBLM451_01077_TODO_23,
-48,TEXT_JOBBLM451_01077_KAZAGGCHAH_000_000,來得正好，黑魔法師<hex:022903EB0203>。<hex:02100103>第269團募緣修士韃札正在找你。<hex:02100103>你快去他那裡吧。
+48,TEXT_JOBBLM451_01077_KAZAGGCHAH_000_000,來得正好，黑魔道士<hex:022903EB0203>。<hex:02100103>第269團募緣修士韃札正在找你。<hex:02100103>你快去他那裡吧。
 49,TEXT_JOBBLM451_01077_DAZA_000_001,你在 黑衣森林的石塔 得到了 新的鑰匙！<hex:02100103>厲害 太厲害了！你果然是 傳說中的……
 50,TEXT_JOBBLM451_01077_DAZA_000_002,那是 從我的祖先 韃古那裡 流傳下來 的傳說<hex:02100103>……我也為此 來到了 薩納蘭。
 51,TEXT_JOBBLM451_01077_DAZA_000_003,「當四名 知曉 魔道之人 在荒野之地 相遇 的時候……<hex:02100103>將使用 古代的 破壞之力 封印 邪惡之物 開闢 正義之路……」
@@ -72,10 +72,10 @@ int32,str,str
 67,TEXT_JOBBLM451_01077_DAZA_000_019,最後 我的血液 也給你。<hex:02100103>我們 相信你 加油啦！
 68,TEXT_JOBBLM451_01077_DAZA_000_020,但是 你也不要 太為難自己了。<hex:02100103>因為 你去的地方 都很危險<hex:02100103>你要多加小心 安全第一。
 69,TEXT_JOBBLM451_01077_DAZA_000_030,不愧是 <hex:022903EB0203>。<hex:02100103>我就知道 你會 成功的。
-70,TEXT_JOBBLM451_01077_DOZOLMELOC_000_031,竟然能順利突破那個採伐所！<hex:02100103>了不起，不愧是黑魔法師！<hex:02100103>我果然沒有看走眼！
+70,TEXT_JOBBLM451_01077_DOZOLMELOC_000_031,竟然能順利突破那個採伐所！<hex:02100103>了不起，不愧是黑魔道士！<hex:02100103>我果然沒有看走眼！
 71,TEXT_JOBBLM451_01077_KAZAGGCHAH_000_040,翹首以盼你的回歸。<hex:02100103>現在去第四個裝束所在地吧……<hex:02100103>就在東薩納蘭的札爾神祠。
 72,TEXT_JOBBLM451_01077_KAZAGGCHAH_000_051,專心致志，打倒出現於<hex:02280CFF05>EObj<hex:F61E8E020103>的妖異，<hex:02100103>將你自己所流的鮮血銘刻於大地。
-73,TEXT_JOBBLM451_01077_KAZAGGCHAH_000_060,你已經收集了四件散落於艾歐澤亞的裝束。<hex:02100103>……但最後一件裝束的所在地還未完全弄清。<hex:02100103>刑故無小。是我們力量不足，甚是慚愧。
+73,TEXT_JOBBLM451_01077_KAZAGGCHAH_000_060,你已經收集了四件散落於艾奧傑亞的裝束。<hex:02100103>……但最後一件裝束的所在地還未完全弄清。<hex:02100103>刑故無小。是我們力量不足，甚是慚愧。
 74,TEXT_JOBBLM451_01077_KAZAGGCHAH_000_061,不過，在你外出期間……韃札摸索著解讀了石板，<hex:02100103>弄懂了最後一件裝束隱藏於「至聖所」。<hex:02100103>但對於這個地方，大家沒有一點頭緒，甚是迷茫。
 75,TEXT_JOBBLM451_01077_KAZAGGCHAH_000_062,但我們不能放棄，相信韃札一定能解讀石板上的內容。<hex:02100103>而你也要獲得與裝束相稱的力量，<hex:02100103>屆時，通往「聖祠」的道路也自然會出現吧……
 76,TEXT_JOBBLM451_01077_KAZAGGCHAH_000_063,相信石板上的記述，盡我們所能。<hex:02100103>現在起你要養精蓄銳，繼續精進黑魔法。<hex:02100103>因為虛無界之門開啟的日子正漸漸逼近。

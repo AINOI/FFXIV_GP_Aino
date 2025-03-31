@@ -154,7 +154,7 @@ int32,str,str
 149,TEXT_COMDEFGRANDCOMPANYOFFICER_00073_FLAMEPERSONNEL_100_090,軍票類似一種貨幣，<hex:02100103>可以用來交換裝備和消耗品，在晉升時也需要用到。<hex:02100103>你就努力完成任務，獲取更多的軍票吧。
 150,TEXT_COMDEFGRANDCOMPANYOFFICER_00073_SYSTEM_000_091,完成與大國防聯軍相關聯的任務就可以得到軍票。<hex:02100103>這也是一種能夠獲得較多軍票的手段。
 151,TEXT_COMDEFGRANDCOMPANYOFFICER_00073_SYSTEM_100_091,另外，通過完成「危命任務」、達成討伐筆記中的「大國防聯軍」項目、<hex:02100103>「籌備軍需品」或「籌備補給品」等，都可以得到軍票。
-152,TEXT_COMDEFGRANDCOMPANYOFFICER_00073_SYSTEM_000_092,從艾歐澤亞各地的「聯絡軍官」那裡<hex:02100103>領取單人專用理符「軍隊理符」，也可以獲得軍票。
+152,TEXT_COMDEFGRANDCOMPANYOFFICER_00073_SYSTEM_000_092,從艾奧傑亞各地的「聯絡軍官」那裡<hex:02100103>領取單人專用理符「軍隊理符」，也可以獲得軍票。
 153,TEXT_COMDEFGRANDCOMPANYOFFICER_00073_SYSTEM_000_093,軍隊理符可以從任意聯絡軍官那裡領取，<hex:02100103>不受所屬軍隊的限制。<hex:02100103>聯絡軍官分布在以下區域。
 154,TEXT_COMDEFGRANDCOMPANYOFFICER_00073_SYSTEM_000_094,拉諾西亞低地的莫拉比造船廠，<hex:02100103>黑衣森林東部林區的霍桑山寨，<hex:02100103>東薩納蘭的枯骨營地。
 155,TEXT_COMDEFGRANDCOMPANYOFFICER_00073_SYSTEM_000_095,距離利姆薩·羅敏薩最近的聯絡軍官位於<hex:02100103>拉諾西亞低地的莫拉比造船廠。<hex:02100103>你可以去找聯絡軍官詢問詳情。

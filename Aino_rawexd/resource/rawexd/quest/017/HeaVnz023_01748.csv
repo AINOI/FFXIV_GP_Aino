@@ -6,7 +6,7 @@ int32,str,str
 1,TEXT_HEAVNZ023_01748_SEQ_01,拉妮艾特拜託冒險者取來<hex:02280FFF09>BNpcName<hex:F20DA60103>的飛膜。前往阿巴拉提亞雲海討伐雲頂的<hex:02280FFF09>BNpcName<hex:F20DA60103>，獲取有一定機率取得的<hex:022811FF0A>EventItem<hex:F61E8ABF0103>。
 2,TEXT_HEAVNZ023_01748_SEQ_02,無法從<hex:02280FFF09>BNpcName<hex:F20DA60103>身上獲得<hex:022811FF0A>EventItem<hex:F61E8ABF0103>。繼續討伐<hex:02280FFF09>BNpcName<hex:F20DA60103>，獲取有一定機率取得的<hex:022811FF0A>EventItem<hex:F61E8ABF0103>。
 3,TEXT_HEAVNZ023_01748_SEQ_03,獲得了<hex:022811FF0A>EventItem<hex:F61E8ABF0103>。將<hex:022811FF0A>EventItem<hex:F61E8ABF0103>交給玫瑰園的拉妮艾特。
-4,TEXT_HEAVNZ023_01748_SEQ_04,將<hex:022811FF0A>EventItem<hex:F61E8ABF0103>交給了拉妮艾特。她的一位名為阿特魯納的友人是位博物學家，為了編纂«新艾歐澤亞博物志»而需要這片飛膜。
+4,TEXT_HEAVNZ023_01748_SEQ_04,將<hex:022811FF0A>EventItem<hex:F61E8ABF0103>交給了拉妮艾特。她的一位名為阿特魯納的友人是位博物學家，為了編纂«新艾奧傑亞博物志»而需要這片飛膜。
 5,TEXT_HEAVNZ023_01748_SEQ_05,
 6,TEXT_HEAVNZ023_01748_SEQ_06,
 7,TEXT_HEAVNZ023_01748_SEQ_07,
@@ -57,5 +57,5 @@ int32,str,str
 52,TEXT_HEAVNZ023_01748_LANIAITTE_000_010,希望你從<hex:02280FFF09>BNpcName<hex:F20DA60103>的身上<hex:02100103>取來<hex:022811FF0A>EventItem<hex:F61E8ABF0103>。<hex:02100103>這份工作基本就是私活，很抱歉，拜託你多擔待了。
 53,TEXT_HEAVNZ023_01748_LANIAITTE_000_020,希望你從<hex:02280FFF09>BNpcName<hex:F20DA60103>的身上<hex:02100103>取來<hex:022811FF0A>EventItem<hex:F61E8ABF0103>。<hex:02100103>這份工作基本就是私活，很抱歉，拜託你多擔待了。
 54,TEXT_HEAVNZ023_01748_LANIAITTE_000_021,非常感謝，真不愧是<hex:022903EB0203>閣下。<hex:02100103>竟然如此輕鬆地獲得了<hex:022811FF0A>EventItem<hex:F61E8ABF0103>，<hex:02100103>真是了不起。
-55,TEXT_HEAVNZ023_01748_LANIAITTE_000_022,這片飛膜我將交給我的友人阿特魯納。<hex:02100103>她為了編纂名為«新艾歐澤亞博物志»的書籍，<hex:02100103>似乎急需這片飛膜。
+55,TEXT_HEAVNZ023_01748_LANIAITTE_000_022,這片飛膜我將交給我的友人阿特魯納。<hex:02100103>她為了編纂名為«新艾奧傑亞博物志»的書籍，<hex:02100103>似乎急需這片飛膜。
 56,TEXT_HEAVNZ023_01748_LANIAITTE_000_023,當然我也會一併向他傳達，<hex:02100103>能夠獲得這片珍貴的飛膜，<hex:02100103>全都是因為<hex:022903EB0203>閣下你的努力！

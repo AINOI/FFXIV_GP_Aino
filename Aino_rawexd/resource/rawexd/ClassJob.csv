@@ -3,13 +3,13 @@
 offset,0,4,8,16
 int32,str,str,str,str
 0,,,,Adventurer
-1,劍術師,GLA,劍,Gladiator
-2,格鬥家,PGL,格,Pugilist
-3,斧術師,MRD,斧,Marauder
-4,槍術師,LNC,槍,Lancer
+1,劍術士,GLA,劍,Gladiator
+2,格鬥士,PGL,格,Pugilist
+3,斧術士,MRD,斧,Marauder
+4,槍術士,LNC,槍,Lancer
 5,弓箭手,ARC,弓,Archer
-6,幻術師,CNJ,幻,Conjurer
-7,咒術師,THM,咒,Thaumaturge
+6,幻術士,CNJ,幻,Conjurer
+7,咒術士,THM,咒,Thaumaturge
 8,刻木匠,CRP,木,Carpenter
 9,鍛鐵匠,BSM,鍛,Blacksmith
 10,鑄甲匠,ARM,甲,Armorer
@@ -26,22 +26,22 @@ int32,str,str,str,str
 21,戰士,WAR,戰,Warrior
 22,龍騎士,DRG,龍,Dragoon
 23,吟遊詩人,BRD,詩,Bard
-24,白魔法師,WHM,白,White Mage
-25,黑魔法師,BLM,黑,Black Mage
-26,秘術師,ACN,秘,Arcanist
-27,召喚師,SMN,召,Summoner
+24,白魔道士,WHM,白,White Mage
+25,黑魔道士,BLM,黑,Black Mage
+26,秘術士,ACN,秘,Arcanist
+27,召喚士,SMN,召,Summoner
 28,學者,SCH,學,Scholar
-29,雙劍師,ROG,雙,Rogue
+29,雙劍士,ROG,雙,Rogue
 30,忍者,NIN,忍,Ninja
 31,機工士,MCH,機,Machinist
 32,暗黑騎士,DRK,暗,Dark Knight
-33,占星術士,AST,占,Astrologian
+33,占星術師,AST,占,Astrologian
 34,武士,SAM,武,Samurai
-35,赤魔法師,RDM,赤,Red Mage
-36,青魔法師,BLU,青,Blue Mage
+35,赤魔道士,RDM,赤,Red Mage
+36,青魔道士,BLU,青,Blue Mage
 37,絕槍戰士,GNB,絕,Gunbreaker
 38,舞者,DNC,舞,Dancer
-39,釤鐮客,RPR,釤,Reaper
+39,狩魂者,RPR,魂,Reaper
 40,賢者,SGE,賢,Sage
-41,蝰蛇劍士,VPR,蛇,Viper
+41,毒蛇劍士,VPR,蛇,Viper
 42,繪靈法師,PCT,繪,Pictomancer
