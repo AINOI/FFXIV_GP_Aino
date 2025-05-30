@@ -206,9 +206,9 @@ int32,str,str
 201,TEXT_CMNDEFRETAINERCALL_00010_TASK_CATEGORY_FISHER_1,捕魚籌集委託（需要1枚探險幣）
 202,TEXT_CMNDEFRETAINERCALL_00010_TASK_CATEGORY_FISHER_2,水岸探索委託（需要2枚探險幣）
 203,TEXT_CMNDEFRETAINERCALL_00010_CLASS_EXPLAIN_BATTLE,職業為戰鬥菁英和魔法導師的僱員可以執行「狩獵籌集委託」，<hex:02100103>籌備指定的掉落物品。<hex:02100103>另外也可以執行「平地探索委託」，探索平地，尋找道具。
-204,TEXT_CMNDEFRETAINERCALL_00010_CLASS_EXPLAIN_MINER,職業為採礦工的僱員可以執行「採礦籌集委託」，<hex:02100103>籌備指定的採礦、碎石道具。<hex:02100103>另外也可以執行「山岳探索委託」，探索山岳，尋找道具。
-205,TEXT_CMNDEFRETAINERCALL_00010_CLASS_EXPLAIN_BOTANIST,職業為園藝工的僱員可以執行「採伐籌集委託」，<hex:02100103>籌備指定的採伐、割草道具。<hex:02100103>另外也可以執行「森林探索委託」，探索森林，尋找道具。
-206,TEXT_CMNDEFRETAINERCALL_00010_CLASS_EXPLAIN_FISHER,職業為捕魚人的僱員可以執行「捕魚籌集委託」，<hex:02100103>籌備指定的魚類。<hex:02100103>另外也可以執行「水岸探索委託」，探索水岸，尋找道具。
+204,TEXT_CMNDEFRETAINERCALL_00010_CLASS_EXPLAIN_MINER,職業為採掘師的僱員可以執行「採礦籌集委託」，<hex:02100103>籌備指定的採礦、碎石道具。<hex:02100103>另外也可以執行「山岳探索委託」，探索山岳，尋找道具。
+205,TEXT_CMNDEFRETAINERCALL_00010_CLASS_EXPLAIN_BOTANIST,職業為園藝師的僱員可以執行「採伐籌集委託」，<hex:02100103>籌備指定的採伐、割草道具。<hex:02100103>另外也可以執行「森林探索委託」，探索森林，尋找道具。
+206,TEXT_CMNDEFRETAINERCALL_00010_CLASS_EXPLAIN_FISHER,職業為釣魚師的僱員可以執行「捕魚籌集委託」，<hex:02100103>籌備指定的魚類。<hex:02100103>另外也可以執行「水岸探索委託」，探索水岸，尋找道具。
 207,TEXT_CMNDEFRETAINERCALL_00010_CLASS_NOT_UNLOCKED,無法將僱員設定為僱主未曾習得的職業。
 208,TEXT_CMNDEFRETAINERCALL_00010_CLASS_CONFIRM_ASK,確定要讓<hex:022903EA0203>成為<hex:02280EFF09>ClassJob<hex:E8030103>嗎？
 209,TEXT_CMNDEFRETAINERCALL_00010_CLASS_SELECTED,<hex:022903EA0203>成為了<hex:02280EFF09>ClassJob<hex:E8030103>！<hex:02100103>以主手為中心整齊裝備，然後試著委託僱員探險吧！

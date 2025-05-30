@@ -3,7 +3,7 @@
 offset,0,4
 int32,str,str
 0,TEXT_BANIXA402_01499_SEQ_00,<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整<hex:0249020103><hex:0248020103><hex:02100103>※本任務推薦等級為：<hex:02100103>　製作職業10級以上、戰鬥職業47級以上。<hex:02100103><hex:02100103>長風實驗場的學者塔澤爾·梅耶安有個重要的委託要交給冒險者。
-1,TEXT_BANIXA402_01499_SEQ_01,※本任務為<hex:024804F201FC03><hex:024904F201FD03><hex:0249020103><hex:0248020103> 等級調整任務。<hex:02100103><hex:02100103>學者塔澤爾·梅耶安委託冒險者製作<hex:022813FF07>ItemHQ<hex:FF08>　8106<hex:0103>。為了換到需要的材料，在成為採礦工的狀態下，從和平苑西邊的礦脈採集15個<hex:022811FF0A>EventItem<hex:F61E89EF0103>、5個<hex:022811FF0A>EventItem<hex:F61E89F00103>。
+1,TEXT_BANIXA402_01499_SEQ_01,※本任務為<hex:024804F201FC03><hex:024904F201FD03><hex:0249020103><hex:0248020103> 等級調整任務。<hex:02100103><hex:02100103>學者塔澤爾·梅耶安委託冒險者製作<hex:022813FF07>ItemHQ<hex:FF08>　8106<hex:0103>。為了換到需要的材料，在成為採掘師的狀態下，從和平苑西邊的礦脈採集15個<hex:022811FF0A>EventItem<hex:F61E89EF0103>、5個<hex:022811FF0A>EventItem<hex:F61E89F00103>。
 2,TEXT_BANIXA402_01499_SEQ_02,採到了<hex:022811FF0A>EventItem<hex:F61E89EF0103>和<hex:022811FF0A>EventItem<hex:F61E89F00103>。去秋瓜浮村找個體貿易商進行交換。
 3,TEXT_BANIXA402_01499_SEQ_03,從個體貿易商手中換來了<hex:022811FF0A>EventItem<hex:F61E89EE0103>。將<hex:022811FF0A>EventItem<hex:F61E89EE0103>交給秋瓜浮村浮栓亭的休德耶德，獲取製作設施的使用許可。
 4,TEXT_BANIXA402_01499_SEQ_04,可以使用製作設施了。用<hex:022811FF05>Item<hex:FF08>　8067<hex:0103>製作4個<hex:022813FF07>ItemHQ<hex:FF08>　8106<hex:0103>，並將其交給長風實驗場的學者塔澤爾·梅耶安。<hex:02100103><hex:02100103>※如果「製作設施：複雜工作」的狀態效果消失了，或者<hex:022811FF05>Item<hex:FF08>　8067<hex:0103>不足的話，就和休德耶德對話，即可重獲狀態效果和材料，並再次進行挑戰。
@@ -26,8 +26,8 @@ int32,str,str
 21,TEXT_BANIXA402_01499_SEQ_21,
 22,TEXT_BANIXA402_01499_SEQ_22,
 23,TEXT_BANIXA402_01499_SEQ_23,
-24,TEXT_BANIXA402_01499_TODO_00,成為採礦工 在和平苑西邊的礦脈採掘<hex:022811FF0A>EventItem<hex:F61E89EF0103>
-25,TEXT_BANIXA402_01499_TODO_01,成為採礦工 在和平苑西邊的礦脈採掘<hex:022811FF0A>EventItem<hex:F61E89F00103>
+24,TEXT_BANIXA402_01499_TODO_00,成為採掘師 在和平苑西邊的礦脈採掘<hex:022811FF0A>EventItem<hex:F61E89EF0103>
+25,TEXT_BANIXA402_01499_TODO_01,成為採掘師 在和平苑西邊的礦脈採掘<hex:022811FF0A>EventItem<hex:F61E89F00103>
 26,TEXT_BANIXA402_01499_TODO_02,將<hex:022811FF0A>EventItem<hex:F61E89EF0103>與<hex:022811FF0A>EventItem<hex:F61E89F00103><hex:02100103>交給秋瓜浮村的個體貿易商
 27,TEXT_BANIXA402_01499_TODO_03,將<hex:022811FF0A>EventItem<hex:F61E89EE0103>交給秋瓜浮村的休德耶德
 28,TEXT_BANIXA402_01499_TODO_04,<hex:020886E3E802E803FF44>製作筆記 友好部族任務10級：製作<hex:022813FF07>ItemHQ<hex:FF08>　8106<hex:0103><hex:FF3A>將<hex:022813FF07>ItemHQ<hex:FF08>　8106<hex:0103>交給學者塔澤爾·梅耶安<hex:03>
@@ -68,4 +68,4 @@ int32,str,str
 63,TEXT_BANIXA402_01499_TAZELMEYEAN_000_131,噶哈哈哈，真是太完美了！<hex:02100103>完美到讓我笑得根本停不下來啊！
 64,TEXT_BANIXA402_01499_POPMESSAGE_000_200,製作設施已經準備就緒。
 65,TEXT_BANIXA402_01499_SYSTEM_200_200,背包中留有在本次任務中製作出的普通品質道具。<hex:02100103>這種道具無法使用也無法出售給商店，盡早扔掉吧。
-66,TEXT_BANIXA402_01499_SYSTEM_000_900,本任務需要職業「採礦工」，<hex:02100103>請提前準備好採礦工的主工具。
+66,TEXT_BANIXA402_01499_SYSTEM_000_900,本任務需要職業「採掘師」，<hex:02100103>請提前準備好採掘師的主工具。

@@ -2,7 +2,7 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_GAIUSB108_00827_SEQ_00,工藝神擊的採礦工穆穆戈伊，想委託給難得一見的冒險者一份工作。
+0,TEXT_GAIUSB108_00827_SEQ_00,工藝神擊的採掘師穆穆戈伊，想委託給難得一見的冒險者一份工作。
 1,TEXT_GAIUSB108_00827_SEQ_01,用於採礦的器材捲入了沙塵壞掉了。清除3處<hex:02280CFF05>EObj<hex:F61E8C7F0103>。
 2,TEXT_GAIUSB108_00827_SEQ_02,清除了所有的<hex:02280CFF05>EObj<hex:F61E8C7F0103>。向工藝神擊的穆穆戈伊報告。
 3,TEXT_GAIUSB108_00827_SEQ_03,穆穆戈伊表示<hex:02280DFF09>BNpcName<hex:850103>因器材散發出的熱量而聚集了過來。討伐4隻<hex:02280DFF09>BNpcName<hex:850103>。

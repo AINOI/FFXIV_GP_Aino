@@ -8,7 +8,7 @@ int32,str,str
 3,TEXT_KINGLA407_04995_SEQ_03,改變了詢問的方法，繼續打聽消息。帶著烏夫洛，再次與瑪穆克的居民交談。
 4,TEXT_KINGLA407_04995_SEQ_04,冒險者兩人打聽到了一個人名。帶著烏夫洛，前往亞克特爾樹海的鮮甜蜜園尋找高薩加。
 5,TEXT_KINGLA407_04995_SEQ_05,從高薩加處打聽到了他的祖父發現類似「花瓣」物質的場所。和亞克特爾樹海赤血天坑附近的烏夫洛談談。
-6,TEXT_KINGLA407_04995_SEQ_06,烏夫洛委託冒險者潛入水下探索。採集<hex:02280BFF05>Item<hex:F2AB8A0103>，交給赤血天坑附近的烏夫洛。採礦工和園藝工都可以在赤血天坑採集到<hex:02280BFF05>Item<hex:F2AB8A0103>。
+6,TEXT_KINGLA407_04995_SEQ_06,烏夫洛委託冒險者潛入水下探索。採集<hex:02280BFF05>Item<hex:F2AB8A0103>，交給赤血天坑附近的烏夫洛。採掘師和園藝師都可以在赤血天坑採集到<hex:02280BFF05>Item<hex:F2AB8A0103>。
 7,TEXT_KINGLA407_04995_SEQ_07,將<hex:02280BFF05>Item<hex:F2AB8A0103>交給了烏夫洛。烏夫洛認為該物品與休涅的「花瓣」十分相似。將<hex:022811FF0A>EventItem<hex:F61E92CE0103>交給珠串萬貨街的休涅。
 8,TEXT_KINGLA407_04995_SEQ_08,將<hex:022811FF0A>EventItem<hex:F61E92CE0103>交給了休涅。休涅確認該結晶與花瓣相同，50年前的事故真相大白。休涅終於放下了過去的包袱。再次和珠串萬貨街的休涅談談。
 9,TEXT_KINGLA407_04995_SEQ_09,休涅向冒險者和烏夫洛道謝。休涅表示未來會再次出發旅行，在此之前，會與店員烏夫洛繼續經營店鋪。這對旅行者終有一日會踏入自然之中，感受自然的恩惠。
@@ -31,7 +31,7 @@ int32,str,str
 26,TEXT_KINGLA407_04995_TODO_02,繼續帶著烏夫洛從居民那裡收集情報
 27,TEXT_KINGLA407_04995_TODO_03,帶著烏夫洛在鮮甜蜜園尋找高薩加
 28,TEXT_KINGLA407_04995_TODO_04,和烏夫洛對話
-29,TEXT_KINGLA407_04995_TODO_05,<hex:0208F2017EE4E94511FF6A><hex:020866E3E802E803FF2E>在赤血天坑附近<hex:02100103>採集<hex:02280BFF05>Item<hex:F2AB8A0103><hex:FF30>將<hex:02280BFF05>Item<hex:F2AB8A0103>交給赤血天坑的烏夫洛<hex:03><hex:FFF2010B><hex:0208F20105E4E94512FF6A><hex:020866E3E802E803FF2E>在赤血天坑附近<hex:02100103>採集<hex:02280BFF05>Item<hex:F2AB8A0103><hex:FF30>將<hex:02280BFF05>Item<hex:F2AB8A0103>交給赤血天坑的烏夫洛<hex:03><hex:FF95><hex:020891E3E802E803FF37>轉職為採礦工或園藝工<hex:02100103>採集<hex:02280BFF05>Item<hex:F2AB8A0103><hex:FF52>轉職為採礦工或園藝工<hex:02100103>將<hex:02280BFF05>Item<hex:F2AB8A0103>交給赤血天坑的烏夫洛<hex:03><hex:03><hex:03>
+29,TEXT_KINGLA407_04995_TODO_05,<hex:0208F2017EE4E94511FF6A><hex:020866E3E802E803FF2E>在赤血天坑附近<hex:02100103>採集<hex:02280BFF05>Item<hex:F2AB8A0103><hex:FF30>將<hex:02280BFF05>Item<hex:F2AB8A0103>交給赤血天坑的烏夫洛<hex:03><hex:FFF2010B><hex:0208F20105E4E94512FF6A><hex:020866E3E802E803FF2E>在赤血天坑附近<hex:02100103>採集<hex:02280BFF05>Item<hex:F2AB8A0103><hex:FF30>將<hex:02280BFF05>Item<hex:F2AB8A0103>交給赤血天坑的烏夫洛<hex:03><hex:FF95><hex:020891E3E802E803FF37>轉職為採掘師或園藝師<hex:02100103>採集<hex:02280BFF05>Item<hex:F2AB8A0103><hex:FF52>轉職為採掘師或園藝師<hex:02100103>將<hex:02280BFF05>Item<hex:F2AB8A0103>交給赤血天坑的烏夫洛<hex:03><hex:03><hex:03>
 30,TEXT_KINGLA407_04995_TODO_06,將<hex:022811FF0A>EventItem<hex:F61E92CE0103>交給珠串萬貨街的休涅
 31,TEXT_KINGLA407_04995_TODO_07,和休涅對話
 32,TEXT_KINGLA407_04995_TODO_08,

@@ -3,7 +3,7 @@
 offset,0,4
 int32,str,str
 0,TEXT_BANIXA301_01514_SEQ_00,<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整<hex:0249020103><hex:0248020103><hex:02100103>※本任務的推薦等級為：<hex:02100103>　製作職業6級以上、戰鬥職業45級以上。<hex:02100103><hex:02100103>長風實驗場的財務官羅佐爾·卡特蘭，希望冒險者製作東西。
-1,TEXT_BANIXA301_01514_SEQ_01,※本任務為<hex:024804F201FC03><hex:024904F201FD03><hex:0249020103><hex:0248020103> 等級調整任務。<hex:02100103><hex:02100103>接受了財務官羅佐爾·卡特蘭的委託，去製作<hex:022813FF07>ItemHQ<hex:FF08>　8100<hex:0103>。在成為捕魚人的狀態下，前往庫爾札斯中央高地，在占星台西邊的庫爾札斯河裡釣<hex:022811FF0A>EventItem<hex:F61E89F60103>。可以使用<hex:022811FF05>Item<hex:FF08>　2586<hex:0103>等淡水型的釣餌，來釣<hex:022811FF0A>EventItem<hex:F61E89F60103>。
+1,TEXT_BANIXA301_01514_SEQ_01,※本任務為<hex:024804F201FC03><hex:024904F201FD03><hex:0249020103><hex:0248020103> 等級調整任務。<hex:02100103><hex:02100103>接受了財務官羅佐爾·卡特蘭的委託，去製作<hex:022813FF07>ItemHQ<hex:FF08>　8100<hex:0103>。在成為釣魚師的狀態下，前往庫爾札斯中央高地，在占星台西邊的庫爾札斯河裡釣<hex:022811FF0A>EventItem<hex:F61E89F60103>。可以使用<hex:022811FF05>Item<hex:FF08>　2586<hex:0103>等淡水型的釣餌，來釣<hex:022811FF0A>EventItem<hex:F61E89F60103>。
 2,TEXT_BANIXA301_01514_SEQ_02,釣上了<hex:022811FF0A>EventItem<hex:F61E89F60103>。將<hex:022811FF0A>EventItem<hex:F61E89F60103>和<hex:022811FF0A>EventItem<hex:F61E89F50103>交給阿德內爾占星台的坦普爾頓，並獲取製作設施的使用權。
 3,TEXT_BANIXA301_01514_SEQ_03,可以使用製作設施了。用<hex:022811FF05>Item<hex:FF08>　8061<hex:0103>製作2個<hex:022813FF07>ItemHQ<hex:FF08>　8100<hex:0103>，並將其交給長風實驗場的財務官羅佐爾·卡特蘭。<hex:02100103><hex:02100103>※如果「製作設施：元件工作II」的狀態效果消失了，或者<hex:022811FF05>Item<hex:FF08>　8061<hex:0103>不足的話，就和坦普爾頓對話，即可重獲狀態效果和材料，並再次進行挑戰。
 4,TEXT_BANIXA301_01514_SEQ_04,將<hex:022813FF07>ItemHQ<hex:FF08>　8100<hex:0103>交給了財務官羅佐爾·卡特蘭。他表示十分佩服賽茲爾·托托羅克的慧眼識珠，招納了冒險者這樣的優秀同伴。另一方面，高風飛行社竟然派了一個不靠譜的員工管理辦事處，令人感到有點不放心。
@@ -26,7 +26,7 @@ int32,str,str
 21,TEXT_BANIXA301_01514_SEQ_21,
 22,TEXT_BANIXA301_01514_SEQ_22,
 23,TEXT_BANIXA301_01514_SEQ_23,
-24,TEXT_BANIXA301_01514_TODO_00,成為捕魚人 從庫爾札斯河釣<hex:022811FF0A>EventItem<hex:F61E89F60103>
+24,TEXT_BANIXA301_01514_TODO_00,成為釣魚師 從庫爾札斯河釣<hex:022811FF0A>EventItem<hex:F61E89F60103>
 25,TEXT_BANIXA301_01514_TODO_01,將<hex:022811FF0A>EventItem<hex:F61E89F60103>和<hex:022811FF0A>EventItem<hex:F61E89F50103><hex:02100103>交給阿德內爾占星台的坦普爾頓
 26,TEXT_BANIXA301_01514_TODO_02,<hex:020888E3E802E803FF43>製作筆記 友好部族任務6級：製作<hex:022813FF07>ItemHQ<hex:FF08>　8100<hex:0103><hex:FF3D>將<hex:022813FF07>ItemHQ<hex:FF08>　8100<hex:0103>交給財務官羅佐爾·卡特蘭<hex:03>
 27,TEXT_BANIXA301_01514_TODO_03,
@@ -68,4 +68,4 @@ int32,str,str
 63,TEXT_BANIXA301_01514_ROZOLCATTLAN_000_132,賽茲爾老大真是慧眼識珠！<hex:02100103>今後也請你多多關照了！
 64,TEXT_BANIXA301_01514_POPMESSAGE_000_200,製作設施已經準備就緒。
 65,TEXT_BANIXA301_01514_SYSTEM_200_200,背包中留有在本次任務中製作出的普通品質道具。<hex:02100103>這種道具無法使用也無法出售給商店，盡早扔掉吧。
-66,TEXT_BANIXA301_01514_SYSTEM_000_900,本任務需要職業「捕魚人」，<hex:02100103>請提前準備好捕魚人的主工具和釣餌。
+66,TEXT_BANIXA301_01514_SYSTEM_000_900,本任務需要職業「釣魚師」，<hex:02100103>請提前準備好釣魚師的主工具和釣餌。

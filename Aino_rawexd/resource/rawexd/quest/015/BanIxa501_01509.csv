@@ -4,7 +4,7 @@ offset,0,4
 int32,str,str
 0,TEXT_BANIXA501_01509_SEQ_00,<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整<hex:0249020103><hex:0248020103><hex:02100103>※本任務推薦等級為：<hex:02100103>　製作職業15級以上、戰鬥職業48級以上。<hex:02100103><hex:02100103>長風實驗場的工匠多紮爾·梅耶安有個高技術難度的委託要交給冒險者。
 1,TEXT_BANIXA501_01509_SEQ_01,※本任務為<hex:024804F201FC03><hex:024904F201FD03><hex:0249020103><hex:0248020103> 等級調整任務。<hex:02100103><hex:02100103>工匠多紮爾·梅耶安委託冒險者製作<hex:02280DFF07>ItemHQ<hex:F21FB00103>。去摩杜納喪靈鐘的鑽石工房找菲厄布瑞達，獲取製作設施的使用許可。
-2,TEXT_BANIXA501_01509_SEQ_02,與菲厄布瑞達進行了交談，得知了製作設施的使用條件。在成為捕魚人的狀態下，從摩杜納的糾纏沼澤林釣2條<hex:022811FF0A>EventItem<hex:F61E8A020103>。<hex:022811FF0A>EventItem<hex:F61E8A020103>可以用<hex:022811FF05>Item<hex:FF08>　2586<hex:0103>等淡水用釣餌釣上來。
+2,TEXT_BANIXA501_01509_SEQ_02,與菲厄布瑞達進行了交談，得知了製作設施的使用條件。在成為釣魚師的狀態下，從摩杜納的糾纏沼澤林釣2條<hex:022811FF0A>EventItem<hex:F61E8A020103>。<hex:022811FF0A>EventItem<hex:F61E8A020103>可以用<hex:022811FF05>Item<hex:FF08>　2586<hex:0103>等淡水用釣餌釣上來。
 3,TEXT_BANIXA501_01509_SEQ_03,釣上了<hex:022811FF0A>EventItem<hex:F61E8A020103>。將<hex:022811FF0A>EventItem<hex:F61E8A020103>與<hex:022811FF0A>EventItem<hex:F61E8A010103>交給鑽石工房的菲厄布瑞達，獲取製作設施的使用許可。
 4,TEXT_BANIXA501_01509_SEQ_04,可以使用製作設施了。用<hex:02280BFF05>Item<hex:F21F880103>製作<hex:02280DFF07>ItemHQ<hex:F21FB00103>，並將其交給長風實驗場的工匠多紮爾·梅耶安。<hex:02100103><hex:02100103>※如果「製作設施：專項工作」的狀態效果消失了，或者<hex:022811FF05>Item<hex:FF08>　8072<hex:0103>不足的話，就和菲厄布瑞達對話，即可重獲狀態效果和材料，並再次進行挑戰。
 5,TEXT_BANIXA501_01509_SEQ_05,將<hex:02280DFF07>ItemHQ<hex:F21FB00103>交給了工匠多紮爾·梅耶安。被稱作品質檢驗之鬼的工頭多紮爾·梅耶安，看到了裡面傾注的工匠之魂。為了使用製作設施而吃的苦，算是得到了回報。
@@ -27,7 +27,7 @@ int32,str,str
 22,TEXT_BANIXA501_01509_SEQ_22,
 23,TEXT_BANIXA501_01509_SEQ_23,
 24,TEXT_BANIXA501_01509_TODO_00,和喪靈鐘的菲厄布瑞達對話
-25,TEXT_BANIXA501_01509_TODO_01,成為捕魚人 從糾纏沼澤林釣<hex:022811FF0A>EventItem<hex:F61E8A020103>
+25,TEXT_BANIXA501_01509_TODO_01,成為釣魚師 從糾纏沼澤林釣<hex:022811FF0A>EventItem<hex:F61E8A020103>
 26,TEXT_BANIXA501_01509_TODO_02,將<hex:022811FF0A>EventItem<hex:F61E8A020103>與<hex:022811FF0A>EventItem<hex:F61E8A010103><hex:02100103>交給喪靈鐘的菲厄布瑞達
 27,TEXT_BANIXA501_01509_TODO_03,<hex:02087AE3E802E803FF3E>製作筆記 友好部族任務15級：製作<hex:02280DFF07>ItemHQ<hex:F21FB00103><hex:FF34>將<hex:02280DFF07>ItemHQ<hex:F21FB00103>交給工匠多紮爾·梅耶安<hex:03>
 28,TEXT_BANIXA501_01509_TODO_04,
@@ -71,4 +71,4 @@ int32,str,str
 66,TEXT_BANIXA501_01509_DUZALMEYEAN_000_132,不，這不光是技術！<hex:02100103>每一道工序裡，都有工匠的靈魂灌注其中……<hex:02100103>你的心念，我感受到了！
 67,TEXT_BANIXA501_01509_POPMESSAGE_000_200,製作設施已經準備就緒。
 68,TEXT_BANIXA501_01509_SYSTEM_200_200,背包中留有在本次任務中製作出的普通品質道具。<hex:02100103>這種道具無法使用也無法出售給商店，盡早扔掉吧。
-69,TEXT_BANIXA501_01509_SYSTEM_000_900,本任務需要職業「捕魚人」，<hex:02100103>請提前準備好捕魚人的主工具和釣餌。
+69,TEXT_BANIXA501_01509_SYSTEM_000_900,本任務需要職業「釣魚師」，<hex:02100103>請提前準備好釣魚師的主工具和釣餌。

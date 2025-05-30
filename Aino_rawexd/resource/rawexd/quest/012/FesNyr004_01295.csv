@@ -5,10 +5,10 @@ int32,str,str
 0,TEXT_FESNYR004_01295_SEQ_00,※本任務是特定期間內的任務。<hex:02100103><hex:02100103>利姆薩·羅敏薩的赤馬與力想要冒險者協助宣傳活動。
 1,TEXT_FESNYR004_01295_SEQ_01,※本任務只有在季節活動開放期間才能接受和進行。<hex:02100103>　季節活動結束後無法進行，敬請注意。<hex:02100103>　詳情請參見官方網站。<hex:02100103><hex:02100103>赤馬與力想要宣傳馬的力量。戴上<hex:02280BFF05>Item<hex:F21B340103>，前往拉諾西亞低地的赤血雄雞農場，和他的部下對話。
 2,TEXT_FESNYR004_01295_SEQ_02,代替扭傷腰的赤馬同心，為搬運蔬菜做準備。繼續戴著<hex:02280BFF05>Item<hex:F21B340103>，收集赤血雄雞農場內的<hex:022811FF0A>EventItem<hex:F61E88ED0103>。
-3,TEXT_FESNYR004_01295_SEQ_03,收集完了<hex:022811FF0A>EventItem<hex:F61E88ED0103>。繼續戴著<hex:02280BFF05>Item<hex:F21B340103>，將<hex:022811FF0A>EventItem<hex:F61E88ED0103>交給赤血雄雞農場的農場的園藝工。
-4,TEXT_FESNYR004_01295_SEQ_04,農場的園藝工看中冒險者的力量，想要委託冒險者搬運<hex:022811FF0A>EventItem<hex:F61E88EE0103>。繼續戴著<hex:02280BFF05>Item<hex:F21B340103>，獲取赤血雄雞農場的<hex:022811FF0A>EventItem<hex:F61E88EE0103>。
-5,TEXT_FESNYR004_01295_SEQ_05,獲得了<hex:022811FF0A>EventItem<hex:F61E88EE0103>。繼續戴著<hex:02280BFF05>Item<hex:F21B340103>，將<hex:022811FF0A>EventItem<hex:F61E88EE0103>交給赤血雄雞農場的農場的園藝工。
-6,TEXT_FESNYR004_01295_SEQ_06,收到<hex:022811FF0A>EventItem<hex:F61E88EE0103>的農場的園藝工很高興，說明白了馬……不對，應該是冒險者的力量。繼續戴著<hex:02280BFF05>Item<hex:F21B340103>，向赤血雄雞農場的赤馬同心報告。
+3,TEXT_FESNYR004_01295_SEQ_03,收集完了<hex:022811FF0A>EventItem<hex:F61E88ED0103>。繼續戴著<hex:02280BFF05>Item<hex:F21B340103>，將<hex:022811FF0A>EventItem<hex:F61E88ED0103>交給赤血雄雞農場的農場的園藝師。
+4,TEXT_FESNYR004_01295_SEQ_04,農場的園藝師看中冒險者的力量，想要委託冒險者搬運<hex:022811FF0A>EventItem<hex:F61E88EE0103>。繼續戴著<hex:02280BFF05>Item<hex:F21B340103>，獲取赤血雄雞農場的<hex:022811FF0A>EventItem<hex:F61E88EE0103>。
+5,TEXT_FESNYR004_01295_SEQ_05,獲得了<hex:022811FF0A>EventItem<hex:F61E88EE0103>。繼續戴著<hex:02280BFF05>Item<hex:F21B340103>，將<hex:022811FF0A>EventItem<hex:F61E88EE0103>交給赤血雄雞農場的農場的園藝師。
+6,TEXT_FESNYR004_01295_SEQ_06,收到<hex:022811FF0A>EventItem<hex:F61E88EE0103>的農場的園藝師很高興，說明白了馬……不對，應該是冒險者的力量。繼續戴著<hex:02280BFF05>Item<hex:F21B340103>，向赤血雄雞農場的赤馬同心報告。
 7,TEXT_FESNYR004_01295_SEQ_07,冒險者扮成馬完成了工作，獲得了赤馬同心的認可。將宣傳成功的證明<hex:022811FF0A>EventItem<hex:F61E88EF0103>交給利姆薩·羅敏薩的赤馬與力。
 8,TEXT_FESNYR004_01295_SEQ_08,赤馬與力稱讚了冒險者的功績，贈予了<hex:02280BFF05>Item<hex:F21B350103>。宣傳過馬的力量之後，利姆薩·羅敏薩對馬的需求或許會增加。再去格里達尼亞和烏爾達哈協助宣傳，向格里達尼亞的馬奉行報告成果。
 9,TEXT_FESNYR004_01295_SEQ_09,
@@ -28,9 +28,9 @@ int32,str,str
 23,TEXT_FESNYR004_01295_SEQ_23,
 24,TEXT_FESNYR004_01295_TODO_00,戴著<hex:02280BFF05>Item<hex:F21B340103>和赤血雄雞農場的赤馬同心對話
 25,TEXT_FESNYR004_01295_TODO_01,戴著<hex:02280BFF05>Item<hex:F21B340103>收集<hex:022811FF0A>EventItem<hex:F61E88ED0103>
-26,TEXT_FESNYR004_01295_TODO_02,戴著<hex:02280BFF05>Item<hex:F21B340103>將<hex:022811FF0A>EventItem<hex:F61E88ED0103>交給農場的園藝工
+26,TEXT_FESNYR004_01295_TODO_02,戴著<hex:02280BFF05>Item<hex:F21B340103>將<hex:022811FF0A>EventItem<hex:F61E88ED0103>交給農場的園藝師
 27,TEXT_FESNYR004_01295_TODO_03,戴著<hex:02280BFF05>Item<hex:F21B340103>獲取<hex:022811FF0A>EventItem<hex:F61E88EE0103>
-28,TEXT_FESNYR004_01295_TODO_04,戴著<hex:02280BFF05>Item<hex:F21B340103>將<hex:022811FF0A>EventItem<hex:F61E88EE0103>交給農場的園藝工
+28,TEXT_FESNYR004_01295_TODO_04,戴著<hex:02280BFF05>Item<hex:F21B340103>將<hex:022811FF0A>EventItem<hex:F61E88EE0103>交給農場的園藝師
 29,TEXT_FESNYR004_01295_TODO_05,戴著<hex:02280BFF05>Item<hex:F21B340103>向赤馬同心報告
 30,TEXT_FESNYR004_01295_TODO_06,將<hex:022811FF0A>EventItem<hex:F61E88EF0103>交給利姆薩·羅敏薩的赤馬與力
 31,TEXT_FESNYR004_01295_TODO_07,
@@ -59,7 +59,7 @@ int32,str,str
 54,TEXT_FESNYR004_01295_SUBORDINATEC_000_010,哈……哈……<hex:02100103>你是新來的馬吧……<hex:02100103>趕在我倒下之前來了，太好了……
 55,TEXT_FESNYR004_01295_SUBORDINATEC_000_011,我們為了證明馬的力量，<hex:02100103>必須要在這個農場搬運蔬菜……
 56,TEXT_FESNYR004_01295_SUBORDINATEC_000_012,可是……蔬菜還沒有全部裝上貨車……<hex:02100103>仍然散落在農場的各處……
-57,TEXT_FESNYR004_01295_SUBORDINATEC_000_013,你先收集蔬菜，交給農場的園藝工。<hex:02100103>然後拉著貨車……代替扭傷腰的我……<hex:02100103>宣傳馬的力量！
+57,TEXT_FESNYR004_01295_SUBORDINATEC_000_013,你先收集蔬菜，交給農場的園藝師。<hex:02100103>然後拉著貨車……代替扭傷腰的我……<hex:02100103>宣傳馬的力量！
 58,TEXT_FESNYR004_01295_SUBORDINATEC_000_019,唔……痛……<hex:02100103>抱歉，你能先戴上<hex:02280BFF05>Item<hex:F21B340103>嗎……
 59,TEXT_FESNYR004_01295_SUBORDINATEC_000_020,(-赤馬同心-)等等……<hex:02100103>為了起到宣傳的作用，必須要戴上<hex:02280BFF05>Item<hex:F21B340103>……<hex:02100103>拜託了，請你扮成馬！
 60,TEXT_FESNYR004_01295_FARMER_000_030,誒？又是扮馬的人？<hex:02100103>我們現在正忙著收割，晃來晃去的話很危險哦。

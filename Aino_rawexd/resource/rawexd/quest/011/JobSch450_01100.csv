@@ -5,10 +5,10 @@ int32,str,str
 0,TEXT_JOBSCH450_01100_SEQ_00,斧術士公會的阿爾卡·佐爾卡有個好消息想告訴冒險者。
 1,TEXT_JOBSCH450_01100_SEQ_01,接受了阿爾卡·佐爾卡的委託。前往摩杜納的迷霧濕地，調查<hex:02280CFF05>EObj<hex:F61E8DD10103>。
 2,TEXT_JOBSCH450_01100_SEQ_02,調查了<hex:02280CFF05>EObj<hex:F61E8DD10103>，並討伐了出現的魔物。繼續調查<hex:02280CFF05>EObj<hex:F61E8DD10103>，獲取<hex:022811FF0A>EventItem<hex:F61E87490103>。
-3,TEXT_JOBSCH450_01100_SEQ_03,獲得了<hex:022811FF0A>EventItem<hex:F61E87490103>。將<hex:022811FF0A>EventItem<hex:F61E87490103>和<hex:022811FF0A>EventItem<hex:F61E87480103>交給烏爾達哈裁衣匠公會的雷多倫特·羅斯，並獲取學者裝束。
-4,TEXT_JOBSCH450_01100_SEQ_04,將<hex:022811FF0A>EventItem<hex:F61E87490103>和<hex:022811FF0A>EventItem<hex:F61E87480103>交給了雷多倫特·羅斯，獲取了學者裝束。接下來將<hex:022811FF0A>EventItem<hex:F61E88440103>交給烏爾達哈雕金匠公會的賽倫蒂碧提，並獲取學者裝束。
-5,TEXT_JOBSCH450_01100_SEQ_05,將<hex:022811FF0A>EventItem<hex:F61E88440103>交給了賽倫蒂碧提，獲取了學者裝束。接下來將<hex:022811FF0A>EventItem<hex:F61E88440103>交給格里達尼亞製革匠公會的蓋娃，並獲取學者裝束。
-6,TEXT_JOBSCH450_01100_SEQ_06,將<hex:022811FF0A>EventItem<hex:F61E88440103>交給了蓋娃，獲取了學者裝束。接下來將<hex:022811FF0A>EventItem<hex:F61E88440103>交給格里達尼亞製革匠公會的貝利，並獲取學者裝束。
+3,TEXT_JOBSCH450_01100_SEQ_03,獲得了<hex:022811FF0A>EventItem<hex:F61E87490103>。將<hex:022811FF0A>EventItem<hex:F61E87490103>和<hex:022811FF0A>EventItem<hex:F61E87480103>交給烏爾達哈裁縫師公會的雷多倫特·羅斯，並獲取學者裝束。
+4,TEXT_JOBSCH450_01100_SEQ_04,將<hex:022811FF0A>EventItem<hex:F61E87490103>和<hex:022811FF0A>EventItem<hex:F61E87480103>交給了雷多倫特·羅斯，獲取了學者裝束。接下來將<hex:022811FF0A>EventItem<hex:F61E88440103>交給烏爾達哈雕金師公會的賽倫蒂碧提，並獲取學者裝束。
+5,TEXT_JOBSCH450_01100_SEQ_05,將<hex:022811FF0A>EventItem<hex:F61E88440103>交給了賽倫蒂碧提，獲取了學者裝束。接下來將<hex:022811FF0A>EventItem<hex:F61E88440103>交給格里達尼亞製革師公會的蓋娃，並獲取學者裝束。
+6,TEXT_JOBSCH450_01100_SEQ_06,將<hex:022811FF0A>EventItem<hex:F61E88440103>交給了蓋娃，獲取了學者裝束。接下來將<hex:022811FF0A>EventItem<hex:F61E88440103>交給格里達尼亞製革師公會的貝利，並獲取學者裝束。
 7,TEXT_JOBSCH450_01100_SEQ_07,將<hex:022811FF0A>EventItem<hex:F61E88440103>交給了貝利，獲取了學者裝束。裝備上學者裝束後，向利姆薩·羅敏薩斧術士公會的阿爾卡·佐爾卡報告。
 8,TEXT_JOBSCH450_01100_SEQ_08,向阿爾卡·佐爾卡報告完畢。他看到冒險者收集的裝束之後，也為冒險者感到高興。
 9,TEXT_JOBSCH450_01100_SEQ_09,
@@ -28,9 +28,9 @@ int32,str,str
 23,TEXT_JOBSCH450_01100_SEQ_23,
 24,TEXT_JOBSCH450_01100_TODO_00,調查迷霧濕地<hex:02280CFF05>EObj<hex:F61E8DD10103>
 25,TEXT_JOBSCH450_01100_TODO_01,調查<hex:02280CFF05>EObj<hex:F61E8DD10103> 並獲取<hex:022811FF0A>EventItem<hex:F61E87490103>
-26,TEXT_JOBSCH450_01100_TODO_02,將指定物品交給裁衣匠公會的雷多倫特·羅斯<hex:02100103>並獲取學者裝束
+26,TEXT_JOBSCH450_01100_TODO_02,將指定物品交給裁縫師公會的雷多倫特·羅斯<hex:02100103>並獲取學者裝束
 27,TEXT_JOBSCH450_01100_TODO_03,將<hex:022811FF0A>EventItem<hex:F61E88440103>交給賽倫蒂碧提 並獲取學者裝束
-28,TEXT_JOBSCH450_01100_TODO_04,將<hex:022811FF0A>EventItem<hex:F61E88440103>交給製革匠公會的蓋娃 並獲取學者裝束
+28,TEXT_JOBSCH450_01100_TODO_04,將<hex:022811FF0A>EventItem<hex:F61E88440103>交給製革師公會的蓋娃 並獲取學者裝束
 29,TEXT_JOBSCH450_01100_TODO_05,將<hex:022811FF0A>EventItem<hex:F61E88440103>交給貝利 並獲取學者裝束
 30,TEXT_JOBSCH450_01100_TODO_06,裝備學者裝束 向阿爾卡·佐爾卡報告
 31,TEXT_JOBSCH450_01100_TODO_07,
@@ -54,11 +54,11 @@ int32,str,str
 49,TEXT_JOBSCH450_01100_ALKAZOLKA_000_001,我發現了描繪第五星曆時期學者活動的雕紋，<hex:02100103>和學者裝束的相關記述。
 50,TEXT_JOBSCH450_01100_ALKAZOLKA_000_002,如果能夠還原學者裝束的話……<hex:02100103>也就能更進一步喚醒小仙女的記憶了吧？
 51,TEXT_JOBSCH450_01100_ALKAZOLKA_000_003,不過，僅憑手上這點資料，來製作1500年以前的裝束。<hex:02100103>普通的工匠肯定做不到吧，所以必須請專家幫忙了。
-52,TEXT_JOBSCH450_01100_ALKAZOLKA_000_004,這是我整理的<hex:022811FF0A>EventItem<hex:F61E87480103>。<hex:02100103>你把它交給烏爾達哈裁衣匠公會的雷多倫特·羅斯先生。<hex:02100103>他是公會的會長，就請他幫忙製作吧。
+52,TEXT_JOBSCH450_01100_ALKAZOLKA_000_004,這是我整理的<hex:022811FF0A>EventItem<hex:F61E87480103>。<hex:02100103>你把它交給烏爾達哈裁縫師公會的雷多倫特·羅斯先生。<hex:02100103>他是公會的會長，就請他幫忙製作吧。
 53,TEXT_JOBSCH450_01100_ALKAZOLKA_000_005,不過，你在去找他之前，<hex:02100103>必須先獲取作為製作材料的<hex:022811FF0A>EventItem<hex:F61E87490103>。
 54,TEXT_JOBSCH450_01100_ALKAZOLKA_000_006,<hex:022811FF0A>EventItem<hex:F61E87490103>是<hex:02100103>摩杜納迷霧濕地才有的稀有妖花的嫩葉。<hex:02100103>你去樹木密集的地方仔細找找看吧。
-55,TEXT_JOBSCH450_01100_ALKAZOLKA_000_007,獲得嫩葉之後，<hex:02100103>就把<hex:022811FF0A>EventItem<hex:F61E87480103>一併交給裁衣匠公會的雷多倫特·羅斯先生。<hex:02100103>我很期待學者裝束重現於世哦！
-56,TEXT_JOBSCH450_01100_ALKAZOLKA_000_010,獲得<hex:022811FF0A>EventItem<hex:F61E87490103>之後，<hex:02100103>就把<hex:022811FF0A>EventItem<hex:F61E87480103>一併交給裁衣匠公會的雷多倫特·羅斯先生。<hex:02100103>我很期待學者裝束重現於世哦！
+55,TEXT_JOBSCH450_01100_ALKAZOLKA_000_007,獲得嫩葉之後，<hex:02100103>就把<hex:022811FF0A>EventItem<hex:F61E87480103>一併交給裁縫師公會的雷多倫特·羅斯先生。<hex:02100103>我很期待學者裝束重現於世哦！
+56,TEXT_JOBSCH450_01100_ALKAZOLKA_000_010,獲得<hex:022811FF0A>EventItem<hex:F61E87490103>之後，<hex:02100103>就把<hex:022811FF0A>EventItem<hex:F61E87480103>一併交給裁縫師公會的雷多倫特·羅斯先生。<hex:02100103>我很期待學者裝束重現於世哦！
 57,TEXT_JOBSCH450_01100_REDOLENTROSE_000_020,哎呀，你就是阿爾卡·佐爾卡說的學者吧？<hex:02100103>真是人不可貌相呢……
 58,TEXT_JOBSCH450_01100_REDOLENTROSE_000_021,參考<hex:022811FF0A>EventItem<hex:F61E87480103>上畫的衣服模樣，<hex:02100103>還原裝束就行了吧？
 59,TEXT_JOBSCH450_01100_REDOLENTROSE_000_022,原來如此……縫紉起來確實有點難度呢，<hex:02100103>不過，這種復古式的時尚感也挺不錯的，<hex:02100103>我能強烈地感受到古人的浪漫呢！
@@ -66,11 +66,11 @@ int32,str,str
 61,TEXT_JOBSCH450_01100_REDOLENTROSE_000_024,呼、呼、呼……<hex:02100103>完、完成了！
 62,TEXT_JOBSCH450_01100_REDOLENTROSE_000_025,我也真是的，竟然如此不顧形象地加勁裁製！<hex:02100103>不過，完成的品質還是很令人滿意的。
 63,TEXT_JOBSCH450_01100_REDOLENTROSE_000_026,但有一點你需要注意。<hex:02100103>現在完成的只有服飾部分……只能算半成品哦。<hex:02100103>最後的潤飾需要請各領域的專家來完成。
-64,TEXT_JOBSCH450_01100_REDOLENTROSE_000_027,制帽需要找雕金匠公會的賽倫蒂碧提。<hex:02100103>手套需要找製革匠公會的蓋娃，<hex:02100103>而長靴則要找同製革匠公會的貝利。
+64,TEXT_JOBSCH450_01100_REDOLENTROSE_000_027,制帽需要找雕金師公會的賽倫蒂碧提。<hex:02100103>手套需要找製革師公會的蓋娃，<hex:02100103>而長靴則要找同製革師公會的貝利。
 65,TEXT_JOBSCH450_01100_REDOLENTROSE_000_028,把我準備的<hex:022811FF0A>EventItem<hex:F61E88440103>交給各位專家後，<hex:02100103>他們便會幫你完成潤飾作業。
 66,TEXT_JOBSCH450_01100_REDOLENTROSE_000_029,裝束全部製作完成之後，<hex:02100103>就穿上給阿爾卡·佐爾卡看看吧。<hex:02100103>他肯定也很期待吧。
 67,TEXT_JOBSCH450_01100_REDOLENTROSE_000_040,最後的潤飾需要請各領域的專家來完成。
-68,TEXT_JOBSCH450_01100_REDOLENTROSE_000_041,制帽需要找雕金匠公會的賽倫蒂碧提。<hex:02100103>手套需要找製革匠公會的蓋娃，<hex:02100103>而長靴則要找同製革匠公會的貝利。
+68,TEXT_JOBSCH450_01100_REDOLENTROSE_000_041,制帽需要找雕金師公會的賽倫蒂碧提。<hex:02100103>手套需要找製革師公會的蓋娃，<hex:02100103>而長靴則要找同製革師公會的貝利。
 69,TEXT_JOBSCH450_01100_REDOLENTROSE_000_042,把我準備的<hex:022811FF0A>EventItem<hex:F61E88440103>交給各位專家後，<hex:02100103>他們便會幫你完成潤飾作業。
 70,TEXT_JOBSCH450_01100_REDOLENTROSE_000_043,裝束全部製作完成之後，<hex:02100103>就穿上給阿爾卡·佐爾卡看看吧。<hex:02100103>他肯定也很期待吧。
 71,TEXT_JOBSCH450_01100_SERENDIPITY_000_050,呀，你好啊！<hex:02100103>你就是雷多倫特·羅斯先生說的那個學者吧？

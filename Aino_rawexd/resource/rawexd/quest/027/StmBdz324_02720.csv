@@ -7,9 +7,9 @@ int32,str,str
 2,TEXT_STMBDZ324_02720_SEQ_02,討伐了名吉釣上來的魔物。救助懼怕魔物的名吉。
 3,TEXT_STMBDZ324_02720_SEQ_03,救助了懼怕魔物的名吉。和漁村的名吉交談，如果有魔物被釣上來，則進行討伐。
 4,TEXT_STMBDZ324_02720_SEQ_04,討伐了名吉釣上來的魔物。和再次釣上魔物的名吉談談。
-5,TEXT_STMBDZ324_02720_SEQ_05,和名吉進行了交談，決定向村民詢問釣魚的訣竅。和名吉選中的捕魚人談談。
-6,TEXT_STMBDZ324_02720_SEQ_06,從熟練的老漁夫那裡聽取了釣魚的訣竅。為了學到新的釣魚技巧，和名吉選中的捕魚人談談。
-7,TEXT_STMBDZ324_02720_SEQ_07,和技術高超的捕魚人進行了交談，得到了<hex:022811FF0A>EventItem<hex:F61E8DC60103>。將<hex:022811FF0A>EventItem<hex:F61E8DC60103>交給漁村的名吉。
+5,TEXT_STMBDZ324_02720_SEQ_05,和名吉進行了交談，決定向村民詢問釣魚的訣竅。和名吉選中的釣魚師談談。
+6,TEXT_STMBDZ324_02720_SEQ_06,從熟練的老漁夫那裡聽取了釣魚的訣竅。為了學到新的釣魚技巧，和名吉選中的釣魚師談談。
+7,TEXT_STMBDZ324_02720_SEQ_07,和技術高超的釣魚師進行了交談，得到了<hex:022811FF0A>EventItem<hex:F61E8DC60103>。將<hex:022811FF0A>EventItem<hex:F61E8DC60103>交給漁村的名吉。
 8,TEXT_STMBDZ324_02720_SEQ_08,和名吉進行了交談，小琉璃指出，名吉心有雜念，導致釣魚不順利。名吉能否熟練運用學到的訣竅釣上魚來……
 9,TEXT_STMBDZ324_02720_SEQ_09,
 10,TEXT_STMBDZ324_02720_SEQ_10,
@@ -30,8 +30,8 @@ int32,str,str
 25,TEXT_STMBDZ324_02720_TODO_01,救助名吉
 26,TEXT_STMBDZ324_02720_TODO_02,和名吉對話並討伐出現的魔物
 27,TEXT_STMBDZ324_02720_TODO_03,和名吉對話
-28,TEXT_STMBDZ324_02720_TODO_04,和捕魚人對話
-29,TEXT_STMBDZ324_02720_TODO_05,和下一位捕魚人對話
+28,TEXT_STMBDZ324_02720_TODO_04,和釣魚師對話
+29,TEXT_STMBDZ324_02720_TODO_05,和下一位釣魚師對話
 30,TEXT_STMBDZ324_02720_TODO_06,將<hex:022811FF0A>EventItem<hex:F61E8DC60103>交給名吉
 31,TEXT_STMBDZ324_02720_TODO_07,
 32,TEXT_STMBDZ324_02720_TODO_08,

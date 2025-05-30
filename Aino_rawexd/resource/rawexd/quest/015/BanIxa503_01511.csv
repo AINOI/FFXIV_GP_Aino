@@ -4,7 +4,7 @@ offset,0,4
 int32,str,str
 0,TEXT_BANIXA503_01511_SEQ_00,<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整<hex:0249020103><hex:0248020103><hex:02100103>※本任務推薦等級為：<hex:02100103>　製作職業15級以上、戰鬥職業48級以上。<hex:02100103><hex:02100103>長風實驗場的工匠多紮爾·梅耶安有個非常委託要交給冒險者。
 1,TEXT_BANIXA503_01511_SEQ_01,※本任務為<hex:024804F201FC03><hex:024904F201FD03><hex:0249020103><hex:0248020103> 等級調整任務。<hex:02100103><hex:02100103>工匠多紮爾·梅耶安委託冒險者製作<hex:02280DFF07>ItemHQ<hex:F21FB20103>。去摩杜納喪靈鐘的鑽石工房找菲厄布瑞達，獲取製作設施的使用許可。
-2,TEXT_BANIXA503_01511_SEQ_02,與菲厄布瑞達進行了交談，得知了製作設施的使用條件。在成為採礦工的狀態下，從摩杜納糾纏沼澤林東南方的礦脈上採掘15個<hex:022811FF0A>EventItem<hex:F61E8A070103>、5個<hex:022811FF0A>EventItem<hex:F61E8A080103>。
+2,TEXT_BANIXA503_01511_SEQ_02,與菲厄布瑞達進行了交談，得知了製作設施的使用條件。在成為採掘師的狀態下，從摩杜納糾纏沼澤林東南方的礦脈上採掘15個<hex:022811FF0A>EventItem<hex:F61E8A070103>、5個<hex:022811FF0A>EventItem<hex:F61E8A080103>。
 3,TEXT_BANIXA503_01511_SEQ_03,採掘了菲厄布瑞達委託的礦石。將<hex:022811FF0A>EventItem<hex:F61E8A070103>與<hex:022811FF0A>EventItem<hex:F61E8A080103>還有<hex:022811FF0A>EventItem<hex:F61E8A060103>交給鑽石工房的菲厄布瑞達，獲取製作設施的使用許可。
 4,TEXT_BANIXA503_01511_SEQ_04,可以使用製作設施了。用<hex:02280BFF05>Item<hex:F21F8A0103>製作<hex:02280DFF07>ItemHQ<hex:F21FB20103>，並將其交給長風實驗場的工匠多紮爾·梅耶安。<hex:02100103><hex:02100103>※如果「製作設施：專項工作」的狀態效果消失了，或者<hex:022811FF05>Item<hex:FF08>　8074<hex:0103>不足的話，就和菲厄布瑞達對話，即可重獲狀態效果和材料，並再次進行挑戰。
 5,TEXT_BANIXA503_01511_SEQ_05,將<hex:02280DFF07>ItemHQ<hex:F21FB20103>交給了工匠多紮爾·梅耶安。追求極致品質的作品，震撼了同樣不知妥協的工頭多紮爾·梅耶安。因冒險者做出的貢獻，飛空艇的排氣性能得到了極大提升。
@@ -27,8 +27,8 @@ int32,str,str
 22,TEXT_BANIXA503_01511_SEQ_22,
 23,TEXT_BANIXA503_01511_SEQ_23,
 24,TEXT_BANIXA503_01511_TODO_00,和喪靈鐘的菲厄布瑞達對話
-25,TEXT_BANIXA503_01511_TODO_01,成為採礦工 從糾纏沼澤林東南的礦脈採掘<hex:022811FF0A>EventItem<hex:F61E8A070103>
-26,TEXT_BANIXA503_01511_TODO_02,成為採礦工 從糾纏沼澤林東南的礦脈採掘<hex:022811FF0A>EventItem<hex:F61E8A080103>
+25,TEXT_BANIXA503_01511_TODO_01,成為採掘師 從糾纏沼澤林東南的礦脈採掘<hex:022811FF0A>EventItem<hex:F61E8A070103>
+26,TEXT_BANIXA503_01511_TODO_02,成為採掘師 從糾纏沼澤林東南的礦脈採掘<hex:022811FF0A>EventItem<hex:F61E8A080103>
 27,TEXT_BANIXA503_01511_TODO_03,將<hex:022811FF0A>EventItem<hex:F61E8A070103>和<hex:022811FF0A>EventItem<hex:F61E8A080103>還有<hex:022811FF0A>EventItem<hex:F61E8A060103><hex:02100103>交給喪靈鐘的菲厄布瑞達
 28,TEXT_BANIXA503_01511_TODO_04,<hex:02087AE3E802E803FF3E>製作筆記 友好部族任務15級：製作<hex:02280DFF07>ItemHQ<hex:F21FB20103><hex:FF34>將<hex:02280DFF07>ItemHQ<hex:F21FB20103>交給工匠多紮爾·梅耶安<hex:03>
 29,TEXT_BANIXA503_01511_TODO_05,
@@ -69,4 +69,4 @@ int32,str,str
 64,TEXT_BANIXA503_01511_DUZALMEYEAN_000_131,……很不錯，用上這個肯定沒問題！<hex:02100103>你身上那追求極致品質、決不妥協的工匠氣質……<hex:02100103>我切實感受到了！
 65,TEXT_BANIXA503_01511_POPMESSAGE_000_200,製作設施已經準備就緒。
 66,TEXT_BANIXA503_01511_SYSTEM_200_200,背包中留有在本次任務中製作出的普通品質道具。<hex:02100103>這種道具無法使用也無法出售給商店，盡早扔掉吧。
-67,TEXT_BANIXA503_01511_SYSTEM_000_900,本任務需要職業「採礦工」，<hex:02100103>請提前準備好採礦工的主工具。
+67,TEXT_BANIXA503_01511_SYSTEM_000_900,本任務需要職業「採掘師」，<hex:02100103>請提前準備好採掘師的主工具。

@@ -3,7 +3,7 @@
 offset,0,4
 int32,str,str
 0,TEXT_BANIXA602_01521_SEQ_00,<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整<hex:0249020103><hex:0248020103><hex:02100103>※本任務推薦等級為：<hex:02100103>　製作職業16級以上、戰鬥職業49級以上。<hex:02100103><hex:02100103>長風實驗場的二把手傑茲爾·阿華坦有個複雜的委託要交給冒險者。
-1,TEXT_BANIXA602_01521_SEQ_01,※本任務為<hex:024804F201FC03><hex:024904F201FD03><hex:0249020103><hex:0248020103> 等級調整任務。<hex:02100103><hex:02100103>二把手傑茲爾·阿華坦委託冒險者製作<hex:022813FF07>ItemHQ<hex:FF08>　8121<hex:0103>。為了換取材料，在成為園藝工的狀態下，從庫爾札斯中央高地巨龍首營地周邊的良材上砍伐15個<hex:022811FF0A>EventItem<hex:F61E8A100103>、5個<hex:022811FF0A>EventItem<hex:F61E8A110103>。
+1,TEXT_BANIXA602_01521_SEQ_01,※本任務為<hex:024804F201FC03><hex:024904F201FD03><hex:0249020103><hex:0248020103> 等級調整任務。<hex:02100103><hex:02100103>二把手傑茲爾·阿華坦委託冒險者製作<hex:022813FF07>ItemHQ<hex:FF08>　8121<hex:0103>。為了換取材料，在成為園藝師的狀態下，從庫爾札斯中央高地巨龍首營地周邊的良材上砍伐15個<hex:022811FF0A>EventItem<hex:F61E8A100103>、5個<hex:022811FF0A>EventItem<hex:F61E8A110103>。
 2,TEXT_BANIXA602_01521_SEQ_02,砍伐到了足夠交換材料的木材。拿去與巨龍首營地陰沉的酒保商人進行交換。
 3,TEXT_BANIXA602_01521_SEQ_03,從陰沉的酒保商人手中取得了<hex:022811FF0A>EventItem<hex:F61E8A1B0103>，並接到了下一步指示。將<hex:022811FF0A>EventItem<hex:F61E8A1B0103>交給巨龍首營地的諾貝托，獲取製作設施的使用許可。
 4,TEXT_BANIXA602_01521_SEQ_04,可以使用製作設施了。用<hex:022811FF05>Item<hex:FF08>　8079<hex:0103>製作2個<hex:022813FF07>ItemHQ<hex:FF08>　8121<hex:0103>，並將其交給長風實驗場的二把手傑茲爾·阿華坦。<hex:02100103><hex:02100103>※如果「製作設施：專項工作II」的狀態效果消失了，或者<hex:022811FF05>Item<hex:FF08>　8079<hex:0103>不足的話，就和諾貝托對話，即可重獲狀態效果和材料，並再次進行挑戰。
@@ -26,8 +26,8 @@ int32,str,str
 21,TEXT_BANIXA602_01521_SEQ_21,
 22,TEXT_BANIXA602_01521_SEQ_22,
 23,TEXT_BANIXA602_01521_SEQ_23,
-24,TEXT_BANIXA602_01521_TODO_00,成為園藝工 從巨龍首營地周邊的良材採伐<hex:022811FF0A>EventItem<hex:F61E8A100103>
-25,TEXT_BANIXA602_01521_TODO_01,成為園藝工 從巨龍首營地周邊的良材採伐<hex:022811FF0A>EventItem<hex:F61E8A110103>
+24,TEXT_BANIXA602_01521_TODO_00,成為園藝師 從巨龍首營地周邊的良材採伐<hex:022811FF0A>EventItem<hex:F61E8A100103>
+25,TEXT_BANIXA602_01521_TODO_01,成為園藝師 從巨龍首營地周邊的良材採伐<hex:022811FF0A>EventItem<hex:F61E8A110103>
 26,TEXT_BANIXA602_01521_TODO_02,將<hex:022811FF0A>EventItem<hex:F61E8A100103>和<hex:022811FF0A>EventItem<hex:F61E8A110103><hex:02100103>交給巨龍首營地陰沉的酒保商人
 27,TEXT_BANIXA602_01521_TODO_03,將<hex:022811FF0A>EventItem<hex:F61E8A1B0103>交給巨龍首營地的諾貝托
 28,TEXT_BANIXA602_01521_TODO_04,<hex:020889E3E802E803FF44>製作筆記 友好部族任務16級：製作<hex:022813FF07>ItemHQ<hex:FF08>　8121<hex:0103><hex:FF3D>將<hex:022813FF07>ItemHQ<hex:FF08>　8121<hex:0103>交給二把手傑茲爾·阿華坦<hex:03>
@@ -68,4 +68,4 @@ int32,str,str
 63,TEXT_BANIXA602_01521_JEZULAHUATAN_000_131,雖然是個麻煩活，但你做得真漂亮！<hex:02100103>老大從前也像你一樣，就算是跑腿的活也一絲不苟地去完成！<hex:02100103>真正的名匠就是認真貫徹始終、決不偷工減料！
 64,TEXT_BANIXA602_01521_POPMESSAGE_000_200,製作設施已經準備就緒。
 65,TEXT_BANIXA602_01521_SYSTEM_200_200,背包中留有在本次任務中製作出的普通品質道具。<hex:02100103>這種道具無法使用也無法出售給商店，盡早扔掉吧。
-66,TEXT_BANIXA602_01521_SYSTEM_000_900,本任務需要職業「園藝工」，<hex:02100103>請提前準備好園藝工的主工具。
+66,TEXT_BANIXA602_01521_SYSTEM_000_900,本任務需要職業「園藝師」，<hex:02100103>請提前準備好園藝師的主工具。

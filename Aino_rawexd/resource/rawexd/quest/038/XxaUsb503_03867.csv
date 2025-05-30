@@ -3,8 +3,8 @@
 offset,0,4
 int32,str,str
 0,TEXT_XXAUSB503_03867_SEQ_00,聖阿達瑪·蘭達瑪教會的馬爾克斯正在尋找修理所需的工具。
-1,TEXT_XXAUSB503_03867_SEQ_01,接受了馬爾克斯的委託，他希望冒險者能夠去進行交涉，買到用於修理懷錶所需的工具。將<hex:022811FF0A>EventItem<hex:F61E90460103>交給東薩納蘭的枯骨營地的旅行雕金匠。
-2,TEXT_XXAUSB503_03867_SEQ_02,從旅行的雕金匠那裡買到了2種工具。將<hex:022811FF0A>EventItem<hex:F61E90440103>和<hex:022811FF0A>EventItem<hex:F61E90450103>交給聖阿達瑪·蘭達瑪教會的馬爾克斯。
+1,TEXT_XXAUSB503_03867_SEQ_01,接受了馬爾克斯的委託，他希望冒險者能夠去進行交涉，買到用於修理懷錶所需的工具。將<hex:022811FF0A>EventItem<hex:F61E90460103>交給東薩納蘭的枯骨營地的旅行雕金師。
+2,TEXT_XXAUSB503_03867_SEQ_02,從旅行的雕金師那裡買到了2種工具。將<hex:022811FF0A>EventItem<hex:F61E90440103>和<hex:022811FF0A>EventItem<hex:F61E90450103>交給聖阿達瑪·蘭達瑪教會的馬爾克斯。
 3,TEXT_XXAUSB503_03867_SEQ_03,懷錶修理完畢。馬爾克斯不明白自己為什麼會擅長修理懷錶。將<hex:022811FF0A>EventItem<hex:F61E90470103>交給聖阿達瑪·蘭達瑪教會的埃莉內德。
 4,TEXT_XXAUSB503_03867_SEQ_04,據埃莉內德所說，這個懷錶是帝國製造的。竟能不費吹灰之力就修好這種東西，馬爾克斯究竟是什麼人？
 5,TEXT_XXAUSB503_03867_SEQ_05,
@@ -26,7 +26,7 @@ int32,str,str
 21,TEXT_XXAUSB503_03867_SEQ_21,
 22,TEXT_XXAUSB503_03867_SEQ_22,
 23,TEXT_XXAUSB503_03867_SEQ_23,
-24,TEXT_XXAUSB503_03867_TODO_00,將<hex:022811FF0A>EventItem<hex:F61E90460103>交給旅行雕金匠
+24,TEXT_XXAUSB503_03867_TODO_00,將<hex:022811FF0A>EventItem<hex:F61E90460103>交給旅行雕金師
 25,TEXT_XXAUSB503_03867_TODO_01,將工具交給聖阿達瑪·蘭達瑪教會的馬爾克斯
 26,TEXT_XXAUSB503_03867_TODO_02,將<hex:022811FF0A>EventItem<hex:F61E90470103>交給埃莉內德
 27,TEXT_XXAUSB503_03867_TODO_03,
@@ -53,9 +53,9 @@ int32,str,str
 48,TEXT_XXAUSB503_03867_SYSTEM_100_000,需要先放棄進行中的主線任務才可領取此任務。<hex:02100103>請在快捷指令的任務情報中打開日誌，然後放棄該任務。
 49,TEXT_XXAUSB503_03867_MARQUEZ_000_000,你來看這個……<hex:02100103>這是表，而且是可以隨身攜帶的懷錶。<hex:02100103>這東西是在枯骨收容的遺體身上找到的……
 50,TEXT_XXAUSB503_03867_MARQUEZ_000_001,但它壞掉了呢……<hex:02100103>隨著主人逝去，表也停下了……<hex:02100103>雖然不能讓死者起死回生，但我可以將這個……
-51,TEXT_XXAUSB503_03867_MARQUEZ_000_002,要修理這東西，需要用到專門的工具。<hex:02100103>能請你去烏爾達哈雕金匠公會和商店拿工具嗎？<hex:02100103>我需要<hex:022811FF0A>EventItem<hex:F61E90440103>和<hex:022811FF0A>EventItem<hex:F61E90450103>。
-52,TEXT_XXAUSB503_03867_MARQUEZ_000_003,善於使用這類工具的人，在艾奧傑亞也就只有雕金匠了吧。<hex:02100103>我聽說枯骨營地最近時常有一位旅行雕金匠會拜訪那裡。
-53,TEXT_XXAUSB503_03867_MARQUEZ_000_004,麻煩你去跟旅行雕金匠交涉一下，讓他把<hex:022811FF0A>EventItem<hex:F61E90440103>和<hex:022811FF0A>EventItem<hex:F61E90450103>賣給你。<hex:02100103>錢就放在這個<hex:022811FF0A>EventItem<hex:F61E90460103>裡了……拜託你了。
+51,TEXT_XXAUSB503_03867_MARQUEZ_000_002,要修理這東西，需要用到專門的工具。<hex:02100103>能請你去烏爾達哈雕金師公會和商店拿工具嗎？<hex:02100103>我需要<hex:022811FF0A>EventItem<hex:F61E90440103>和<hex:022811FF0A>EventItem<hex:F61E90450103>。
+52,TEXT_XXAUSB503_03867_MARQUEZ_000_003,善於使用這類工具的人，在艾奧傑亞也就只有雕金師了吧。<hex:02100103>我聽說枯骨營地最近時常有一位旅行雕金師會拜訪那裡。
+53,TEXT_XXAUSB503_03867_MARQUEZ_000_004,麻煩你去跟旅行雕金師交涉一下，讓他把<hex:022811FF0A>EventItem<hex:F61E90440103>和<hex:022811FF0A>EventItem<hex:F61E90450103>賣給你。<hex:02100103>錢就放在這個<hex:022811FF0A>EventItem<hex:F61E90460103>裡了……拜託你了。
 54,TEXT_XXAUSB503_03867_GOLGSMITHXXXXX_000_010,誒……你想要<hex:022811FF0A>EventItem<hex:F61E90440103>和<hex:022811FF0A>EventItem<hex:F61E90450103>？<hex:02100103>我倒是有預備的，只要你肯花錢的話我就賣給你……
 55,TEXT_XXAUSB503_03867_GOLGSMITHXXXXX_000_011,嗯……這些錢算是足夠了。<hex:02100103>拿走吧，這是你想要的工具！
 56,TEXT_XXAUSB503_03867_GOLGSMITHXXXXX_000_020,……哎呀，怎麼了？<hex:02100103>雖然我不知道到底是誰想用道具，<hex:02100103>不過你還是快點給人家拿過去吧。

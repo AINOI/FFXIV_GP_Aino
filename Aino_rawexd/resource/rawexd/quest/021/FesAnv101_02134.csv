@@ -8,7 +8,7 @@ int32,str,str
 3,TEXT_FESANV101_02134_SEQ_03,向諾諾拉進行了報告。異國的詩人造訪，提出了應該調查故障蟲增殖的原因並想出對策。讓紅玉大路國際市場的異國的音樂家看看<hex:022811FF0A>EventItem<hex:F61E8BE20103>，聽聽他的意見。
 4,TEXT_FESANV101_02134_SEQ_04,異國的音樂家表示隨著碎片發出的聲音，上面銘刻的文字也會發光。為了解讀文字，前往烏爾達哈的阿達內斯聖櫃堂讓異國的翻譯家看看<hex:022811FF0A>EventItem<hex:F61E8BE20103>，聽聽他的意見。
 5,TEXT_FESANV101_02134_SEQ_05,異國的翻譯家讀出了其中代表增殖與指令的文字。為了探索文字的意義，前往烏爾達哈的流沙屋讓異國的作家看看<hex:022811FF0A>EventItem<hex:F61E8BE20103>，聽聽他的意見。
-6,TEXT_FESANV101_02134_SEQ_06,異國的作家表示在關於古代文明的文獻中曾讀到過有關兵器量產的內容。為了了解詳情，前往烏爾達哈的雕金匠公會讓異國的匠師看看<hex:022811FF0A>EventItem<hex:F61E8BE20103>，聽聽他的意見。
+6,TEXT_FESANV101_02134_SEQ_06,異國的作家表示在關於古代文明的文獻中曾讀到過有關兵器量產的內容。為了了解詳情，前往烏爾達哈的雕金師公會讓異國的匠師看看<hex:022811FF0A>EventItem<hex:F61E8BE20103>，聽聽他的意見。
 7,TEXT_FESANV101_02134_SEQ_07,異國的匠師表示只要用歌聲擾亂故障蟲發出的音波，就能阻止它們增殖。將<hex:022811FF0A>EventItem<hex:F61E8BE20103>和<hex:022811FF0A>EventItem<hex:F61E8BE30103>交給紅玉大路國際市場的異國的詩人。
 8,TEXT_FESANV101_02134_SEQ_08,將<hex:022811FF0A>EventItem<hex:F61E8BE20103>和<hex:022811FF0A>EventItem<hex:F61E8BE30103>交給了異國的詩人，並傳達了收集到的情報。通過各創作行業專家的努力而得出的答案令異國的詩人感動異常。他帶著這份感動，為冒險者演奏了一首詩歌。聽到這首詩歌的冒險者被引入夢中，來到了神秘的空間——開發室。和統領開發室的吉田直樹談談。
 9,TEXT_FESANV101_02134_SEQ_09,吉田直樹代表開發室，向一直活躍於艾奧傑亞的冒險者表達了感謝。夢醒之時，冒險者依舊站在烏爾達哈繁華的街道上。望著夜空中綻放的煙花，冒險者、異國的詩人、諾諾拉一同祈禱，願在第七靈災中逝去的人們能得到安息。
@@ -31,7 +31,7 @@ int32,str,str
 26,TEXT_FESANV101_02134_TODO_02,讓異國的音樂家查看<hex:022811FF0A>EventItem<hex:F61E8BE20103>
 27,TEXT_FESANV101_02134_TODO_03,讓異國的翻譯家查看<hex:022811FF0A>EventItem<hex:F61E8BE20103>
 28,TEXT_FESANV101_02134_TODO_04,讓異國的作家查看<hex:022811FF0A>EventItem<hex:F61E8BE20103>
-29,TEXT_FESANV101_02134_TODO_05,讓雕金匠公會異國的匠師查看<hex:022811FF0A>EventItem<hex:F61E8BE20103>
+29,TEXT_FESANV101_02134_TODO_05,讓雕金師公會異國的匠師查看<hex:022811FF0A>EventItem<hex:F61E8BE20103>
 30,TEXT_FESANV101_02134_TODO_06,將<hex:022811FF0A>EventItem<hex:F61E8BE20103>和<hex:022811FF0A>EventItem<hex:F61E8BE30103><hex:02100103>交給紅玉大路國際市場的異國的詩人
 31,TEXT_FESANV101_02134_TODO_07,和開發室的吉田直樹對話
 32,TEXT_FESANV101_02134_TODO_08,
@@ -93,8 +93,8 @@ int32,str,str
 88,TEXT_FESANV101_02134_WANDERINGSCENARIOWRITER02134_000_155,嗯，增殖和指令嗎……<hex:02100103>說起來我在翻找關於古代亞拉戈文明的文獻時，<hex:02100103>曾看到過記載說當時有裝置可以促使兵器進行量產。
 89,TEXT_FESANV101_02134_WANDERINGSCENARIOWRITER02134_000_156,但如果不查清具體是什麼樣的裝置，<hex:02100103>可沒辦法對症下藥……
 90,TEXT_FESANV101_02134_WANDERINGSCENARIOWRITER02134_000_157,我有個非常信任的匠師朋友，<hex:02100103>這些情報應該足夠他想出對策了。
-91,TEXT_FESANV101_02134_WANDERINGSCENARIOWRITER02134_000_158,他為了悼念第七靈災的犧牲者們一定也來到了這座城市！<hex:02100103>現在也許正在雕金匠公會研究自走人偶也說不定哦？
-92,TEXT_FESANV101_02134_WANDERINGSCENARIOWRITER02134_000_160,我有個非常信任的匠師朋友，<hex:02100103>這些情報應該足夠他想出對策了。<hex:02100103>他現在也許正在雕金匠公會研究自走人偶也說不定哦？
+91,TEXT_FESANV101_02134_WANDERINGSCENARIOWRITER02134_000_158,他為了悼念第七靈災的犧牲者們一定也來到了這座城市！<hex:02100103>現在也許正在雕金師公會研究自走人偶也說不定哦？
+92,TEXT_FESANV101_02134_WANDERINGSCENARIOWRITER02134_000_160,我有個非常信任的匠師朋友，<hex:02100103>這些情報應該足夠他想出對策了。<hex:02100103>他現在也許正在雕金師公會研究自走人偶也說不定哦？
 93,TEXT_FESANV101_02134_WANDERINGPROGRSMMER02134_000_165,唔，需要我的技術來幫忙解決問題嗎……<hex:02100103>那就把<hex:022811FF0A>EventItem<hex:F61E8BE20103>拿給我看看吧。
 94,TEXT_FESANV101_02134_WANDERINGPROGRSMMER02134_000_170,……原來如此。<hex:02100103>根據你搜集到的情報和這塊碎片來推測，<hex:02100103>那些故障蟲上很可能裝載著增殖裝置。
 95,TEXT_FESANV101_02134_WANDERINGPROGRSMMER02134_000_171,故障蟲的數量一旦減少到一定數量以下，<hex:02100103>就會通過發送特殊的音波通訊來執行增殖指令。<hex:02100103>這樣的話，只要擾亂音波，令指令失效就可以了。

@@ -4,7 +4,7 @@ offset,0,4
 int32,str,str
 0,TEXT_KINGLA405_04993_SEQ_00,珠串萬貨街的休涅想委託冒險者送貨。
 1,TEXT_KINGLA405_04993_SEQ_01,從休涅那裡拿到了送給瓦泡塔的商品。將<hex:022811FF0A>EventItem<hex:F61E92CD0103>交給圖萊尤拉翼鏡街的瓦泡塔。
-2,TEXT_KINGLA405_04993_SEQ_02,將商品交給了瓦泡塔。採集<hex:02280BFF05>Item<hex:F2AB890103>，交給珠串萬貨街的休涅。當職業為採礦工時，可以在奧闊帕恰山的沉星浮淚的池附近採集到<hex:02280BFF05>Item<hex:F2AB890103>；當職業為園藝工時，可以在奧闊帕恰山的拉托托花田附近採集到<hex:02280BFF05>Item<hex:F2AB890103>。
+2,TEXT_KINGLA405_04993_SEQ_02,將商品交給了瓦泡塔。採集<hex:02280BFF05>Item<hex:F2AB890103>，交給珠串萬貨街的休涅。當職業為採掘師時，可以在奧闊帕恰山的沉星浮淚的池附近採集到<hex:02280BFF05>Item<hex:F2AB890103>；當職業為園藝師時，可以在奧闊帕恰山的拉托托花田附近採集到<hex:02280BFF05>Item<hex:F2AB890103>。
 3,TEXT_KINGLA405_04993_SEQ_03,將委託的物品交給了休涅，並解除了烏夫洛的誤會。休涅推測50年前讓自己失去家人的事故是隕石造成的。但事到如今，並沒有發現支持這一推測的決定性證據。時機成熟後，再次探望面帶憂愁的休涅。
 4,TEXT_KINGLA405_04993_SEQ_04,
 5,TEXT_KINGLA405_04993_SEQ_05,
@@ -27,7 +27,7 @@ int32,str,str
 22,TEXT_KINGLA405_04993_SEQ_22,
 23,TEXT_KINGLA405_04993_SEQ_23,
 24,TEXT_KINGLA405_04993_TODO_00,將<hex:022811FF0A>EventItem<hex:F61E92CD0103>交給瓦泡塔
-25,TEXT_KINGLA405_04993_TODO_01,<hex:0208F20187E4E94511FF70><hex:02086CE3E802E803FF34>在沉星浮淚的池附近<hex:02100103>採集<hex:02280BFF05>Item<hex:F2AB890103><hex:FF30>將<hex:02280BFF05>Item<hex:F2AB890103>交給珠串萬貨街的休涅<hex:03><hex:FFF2010E><hex:0208F20108E4E94512FF6D><hex:020869E3E802E803FF31>在拉托托花田附近<hex:02100103>採集<hex:02280BFF05>Item<hex:F2AB890103><hex:FF30>將<hex:02280BFF05>Item<hex:F2AB890103>交給珠串萬貨街的休涅<hex:03><hex:FF95><hex:020891E3E802E803FF37>轉職為採礦工或園藝工<hex:02100103>採集<hex:02280BFF05>Item<hex:F2AB890103><hex:FF52>轉職為採礦工或園藝工<hex:02100103>將<hex:02280BFF05>Item<hex:F2AB890103>交給珠串萬貨街的休涅<hex:03><hex:03><hex:03>
+25,TEXT_KINGLA405_04993_TODO_01,<hex:0208F20187E4E94511FF70><hex:02086CE3E802E803FF34>在沉星浮淚的池附近<hex:02100103>採集<hex:02280BFF05>Item<hex:F2AB890103><hex:FF30>將<hex:02280BFF05>Item<hex:F2AB890103>交給珠串萬貨街的休涅<hex:03><hex:FFF2010E><hex:0208F20108E4E94512FF6D><hex:020869E3E802E803FF31>在拉托托花田附近<hex:02100103>採集<hex:02280BFF05>Item<hex:F2AB890103><hex:FF30>將<hex:02280BFF05>Item<hex:F2AB890103>交給珠串萬貨街的休涅<hex:03><hex:FF95><hex:020891E3E802E803FF37>轉職為採掘師或園藝師<hex:02100103>採集<hex:02280BFF05>Item<hex:F2AB890103><hex:FF52>轉職為採掘師或園藝師<hex:02100103>將<hex:02280BFF05>Item<hex:F2AB890103>交給珠串萬貨街的休涅<hex:03><hex:03><hex:03>
 26,TEXT_KINGLA405_04993_TODO_02,
 27,TEXT_KINGLA405_04993_TODO_03,
 28,TEXT_KINGLA405_04993_TODO_04,
@@ -143,4 +143,4 @@ int32,str,str
 138,TEXT_KINGLA405_04993_SHUNYE_000_125,……但我沒法確定我的推測是否正確，<hex:02100103>如今已經無法調查取證了。
 139,TEXT_KINGLA405_04993_SHUNYE_000_126,也許是我太想要一個答案了，<hex:02100103>才會這樣自圓其說，或許它根本和村子被毀沒關係。
 140,TEXT_KINGLA405_04993_SHUNYE_000_127,我真的……很想知道……
-141,TEXT_KINGLA405_04993_SYSTEM_000_130,園藝工或採礦工的等級達到98級以上時，<hex:02100103>可以從珠串萬貨街的休涅那裡領取下一個任務。
+141,TEXT_KINGLA405_04993_SYSTEM_000_130,園藝師或採掘師的等級達到98級以上時，<hex:02100103>可以從珠串萬貨街的休涅那裡領取下一個任務。
