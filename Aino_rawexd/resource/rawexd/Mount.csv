@@ -387,8 +387,8 @@ int32,str,str,str,str,str
 382,空氣輪車C9,,SE_Bt_Etc_Mount_SolutionNineCar_call,SE_Bt_Etc_MadoWhistle_only,SE_Bt_Etc_Mount_SolutionNineCar_bye
 383,古式魔導船,,SE_Bt_Etc_Mount_MKDHikousen_call,SE_Bt_Etc_MadoWhistle_only,SE_Bt_Etc_Mount_MKDHikousen_bye
 384,,,,,
-385,高機動行動力運裝機,,SE_Bt_Etc_Mount_WKSMech1_call,SE_Bt_Etc_MadoWhistle_only,SE_Bt_Etc_Mount_WKSMech1_bye
-386,,,,,
+385,高機動型動力機甲,,SE_Bt_Etc_Mount_WKSMech1_call,SE_Bt_Etc_MadoWhistle_only,SE_Bt_Etc_Mount_WKSMech1_bye
+386,輪式運載機,,SE_Bt_Etc_Mount_WKSMech2_call,SE_Bt_Etc_MadoWhistle_only,SE_Bt_Etc_Mount_WKSMech2_bye
 387,,,,,
 388,遊行好腦袋大王,,SE_Bt_Etc_Mount_Mandragora_call,SE_Bt_Etc_GuuBooWhistle_only,SE_Bt_Etc_Mount_Mandragora_bye
 389,騎士之翼,,SE_Bt_Etc_Mount_Wing_call,SE_Bt_Etc_GuuBooWhistle_only,SE_Bt_Etc_Mount_Wing_bye
@@ -403,8 +403,8 @@ int32,str,str,str,str,str
 398,,,,,
 399,,,,,
 400,羊,,SE_Bt_Etc_Mount_FF9_Yarn_call,SE_Bt_Etc_GuuBooWhistle_only,SE_Bt_Etc_Mount_FF9_Yarn_bye
-401,,,,,
-402,,,,,
+401,宇宙達鳥,,SE_Bt_Etc_Mount_Dhalmel_WKS_call,SE_Bt_Etc_MadoWhistle_only,SE_Bt_Etc_Mount_Dhalmel_WKS_bye
+402,宇宙飛板,,SE_Bt_Etc_Mount_WKS_ZipLine_call,SE_Bt_Etc_MadoWhistle_only,SE_Bt_Etc_Mount_WKS_ZipLine_bye
 403,,,,,
 404,,,,,
 405,,,,,
