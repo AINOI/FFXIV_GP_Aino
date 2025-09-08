@@ -1990,6 +1990,7 @@ int32,str
 2056,
 2057,
 2058,
+2059,
 2060,完成<hex:022003E80203>級筆記的內容
 2061,軍銜達到<hex:0208F0D2E805FF6A><hex:020966E803FF1F><hex:02281BFF16>GCRankLimsaFemaleText<hex:E8040103><hex:FF22><hex:02281EFF19>GCRankGridaniaFemaleText<hex:E8040103><hex:FF1F><hex:02281BFF16>GCRankUldahFemaleText<hex:E8040103><hex:03><hex:FF64><hex:020960E803FF1D><hex:022819FF14>GCRankLimsaMaleText<hex:E8040103><hex:FF20><hex:02281CFF17>GCRankGridaniaMaleText<hex:E8040103><hex:FF1D><hex:022819FF14>GCRankUldahMaleText<hex:E8040103><hex:03><hex:03>以上
 2063,自動播放類型
@@ -2023,45 +2024,6 @@ int32,str
 2094,確定
 2095,取消
 2096,確定要關閉嗎？設定中的內容將不會保存。
-2097,是
-2098,否
-2100,房屋
-2056,
-2057,
-2058,
-2060,完成<hex:022003E80203>级笔记的内容
-2061,军衔达到<hex:0208F0D2E805FF6A><hex:020966E803FF1F><hex:02281BFF16>GCRankLimsaFemaleText<hex:E8040103><hex:FF22><hex:02281EFF19>GCRankGridaniaFemaleText<hex:E8040103><hex:FF1F><hex:02281BFF16>GCRankUldahFemaleText<hex:E8040103><hex:03><hex:FF64><hex:020960E803FF1D><hex:022819FF14>GCRankLimsaMaleText<hex:E8040103><hex:FF20><hex:02281CFF17>GCRankGridaniaMaleText<hex:E8040103><hex:FF1D><hex:022819FF14>GCRankUldahMaleText<hex:E8040103><hex:03><hex:03>以上
-2063,自动播放类型
-2064,全部
-2065,仅语音
-2066,无语音对话字幕的播放速度
-2067,自动播放速度
-2068,
-2069,打开自动播放设置
-2070,显示期望列表
-2071,期望列表
-2072,列表中可以记入10种自己想要的道具。<hex:02100103>虽然其他人无法看到自己的列表，<hex:02100103>不过可以统计当前市场的需求情况。<hex:02100103><hex:02100103><hex:024804F201FA03><hex:024904F201FB03>※列表与统计数据会在每次服务器维护时清空<hex:0249020103><hex:0248020103>
-2073,<hex:021E020B03>次级指令 <hex:021E020903>查看市场情况 <hex:021E020A03>返回
-2074,添加到期望列表（<hex:022003E80203>/<hex:022003E80303>）
-2075,从期望列表中删除（<hex:022003E80203>/<hex:022003E80303>）
-2076,需求情况
-2077,需求情况
-2078,<hex:021E020B03>次级指令 <hex:021E020903>查看市场情况 <hex:021E020A03>返回 <hex:021E020D03><hex:021E020E03>翻页
-2079,分类内搜索
-2080,显示收藏夹
-2081,收藏夹
-2082,添加到收藏夹
-2083,从收藏夹中删除
-2084,收藏夹中最多可收藏100件商品。<hex:02100103>其他人无法看到你的收藏夹。<hex:02100103>收藏夹在原始服务器之外也可正常使用。
-2085,只显示尚未学习或收录的道具
-2086,本页无尚未学习或收录的道具。
-2087,总计价格算入手续费
-2090,为了缓解服务器压力，「<hex:022825FF0A>PlaceName<hex:FF17><hex:022813FF0E>TerritoryType<hex:E8020603><hex:0103>」被分成了多个副本区。<hex:02100103>请选择准备前往的副本区。<hex:02100103>（所有副本区的内容没有任何区别）
-2091,随意（自动选择）
-2092,<hex:022825FF0A>PlaceName<hex:FF17><hex:022813FF0E>TerritoryType<hex:E8020603><hex:0103><hex:020848E1E80301FF41><hex:02083DE1E8030AFF02>A<hex:FF34><hex:020930E803FF04><hex:FF04><hex:FF04><hex:FF04><hex:FF04><hex:FF04><hex:FF04><hex:FF04><hex:FF04><hex:03><hex:03><hex:0103> (<hex:022206E804FF022C03>)
-2094,确定
-2095,取消
-2096,确定要关闭吗？设置中的内容将不会保存。
 2097,是
 2098,否
 2100,房屋
